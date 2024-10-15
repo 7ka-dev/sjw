@@ -1,0 +1,9 @@
+{
+  "extends": "@sjw/typescript-config/tsconfig.base.json",
+  "compilerOptions": {
+    "outDir": "dist",
+    "noImplicitAny": false,
+  },
+  "include": ["tools"],
+  "exclude": ["node_modules", "dist"]
+}
