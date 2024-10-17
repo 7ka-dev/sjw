@@ -24,7 +24,13 @@ export const writeCsvFile = async (
   await fs.writeFile(filePath, dataset, "utf8");
 };
 
-
-export const hello = () => {
-  console.log("hello");
+export const toCsv = (
+  data: any,
+  headers: string[],
+  withHeaders = false
+): string => {
+  return Papa.unparse([data], {
+    header: withHeaders,
+    columns: headers,
+  });
 };

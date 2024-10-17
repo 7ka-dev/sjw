@@ -3,7 +3,11 @@
   "compilerOptions": {
     "outDir": "dist",
     "noImplicitAny": false,
+    "baseUrl": ".",
+    "paths": {
+      "@sjw/*": ["./*"]
+    }
   },
-  "include": ["tools"],
+  "include": ["tools", "types", "parser/**/*.ts"],
   "exclude": ["node_modules", "dist"]
 }
