@@ -50,3 +50,25 @@ export const readCandidate = async (fileName: string): Promise<any> => {
     throw new Error(`Failed to read CSV file ${fileName}: ${error.message}`);
   }
 };
+
+/**
+ * Deletes a candidate file from the {@link CANDIDATE_STORAGE}.
+ *
+ * @function
+ * @async
+ *
+ * @param {string} fileName - The name of the file to be deleted from the candidate storage.
+ *
+ * @returns {Promise<void>} A promise that resolves once the file has been successfully deleted.
+ *
+ * @throws {Error} If the file deletion fails.
+ */
+export const deleteCandidate = async (fileName: string): Promise<void> => {
+  const filePath = path.join(CANDIDATE_STORAGE, fileName);
+
+  try {
+    await fs.unlink(filePath);
+  } catch (error: any) {
+    throw new Error(`Failed to delete file ${fileName}: ${error.message}`);
+  }
+};

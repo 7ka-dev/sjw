@@ -6,7 +6,8 @@
   "exports": {
     "./utils/*": "./utils/*",
     "./utils/fs/*": "./utils/fs/*",
-    "./types/*": "./types/*"
+    "./types/*": "./types/*",
+    "./parser/cah/*": "./parser/cah/*"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
