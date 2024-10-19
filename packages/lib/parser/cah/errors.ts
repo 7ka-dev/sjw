@@ -1,5 +1,5 @@
-import { ParsingError } from "@sjw/types/types";
-import { toCsv } from "@sjw/tools/csv";
+import { ParsingError } from "../../types/types";
+import { toCsv } from "../../utils/csv";
 
 export const PARSING_ERROR_HEADERS = ["error", "line", "column"];
 export const NewParsingError = (

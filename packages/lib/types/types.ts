@@ -1,3 +1,12 @@
+export type GameName = "CAH" | "SJW";
+
+export type SetMetadata = {
+  uuid: string;
+  name: string;
+};
+
+export type Metadata = Partial<Record<GameName, SetMetadata[]>>;
+
 export type CsvTemplate = {
   toCsv: (withHeaders?: boolean) => string;
   getHeaders: () => string[];

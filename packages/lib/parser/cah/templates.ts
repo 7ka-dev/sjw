@@ -1,6 +1,12 @@
 import { v4 } from "uuid";
-import { toCsv } from "@sjw//tools/csv";
-import { Card, Edition, ParsingError, SetDataset, SetDetails } from "@sjw/types/types";
+import { toCsv } from "../../utils/csv";
+import {
+  Card,
+  Edition,
+  ParsingError,
+  SetDataset,
+  SetDetails,
+} from "../../types/types";
 export const CARD_HEADERS = [
   "uuid",
   "suite",
@@ -19,9 +25,6 @@ export const EDITION_HEADERS = [
 ];
 export const SET_DETAILS_HEADERS = ["uuid", "name", "description"];
 
-// Utility for generating CSV with dynamic headers
-
-// NewCard factory function
 export const NewCard = (
   editions: string[],
   customHeaders: string[] = CARD_HEADERS
@@ -32,16 +35,12 @@ export const NewCard = (
     text: "",
     draw: 0,
     pick: 0,
-    getHeaders: () => [
-      ...customHeaders,
-      ...editions, // Adding edition UUIDs as columns
-    ],
+    getHeaders: () => [...customHeaders, ...editions],
     toCsv(withHeaders = false) {
       return toCsv(this, this.getHeaders(), withHeaders);
     },
   };
 
-  // Add dynamic edition fields to card
   editions.forEach((uuid) => {
     card[uuid] = "";
   });
@@ -49,7 +48,6 @@ export const NewCard = (
   return card;
 };
 
-// NewEdition factory function
 export const NewEdition = (
   customHeaders: string[] = EDITION_HEADERS
 ): Edition => ({
@@ -68,7 +66,6 @@ export const NewEdition = (
   },
 });
 
-// NewSetDetails factory function
 export const NewSetDetails = (
   customHeaders: string[] = SET_DETAILS_HEADERS
 ): SetDetails => ({
@@ -83,7 +80,6 @@ export const NewSetDetails = (
   },
 });
 
-// NewDataset factory function
 export const NewDataset = (
   cardHeaders: string[] = CARD_HEADERS,
   editionHeaders: string[] = EDITION_HEADERS
@@ -99,17 +95,14 @@ export const NewDataset = (
   toCsv() {
     const csvData: string[] = [];
 
-    // Append set details with headers
     csvData.push(this.setDetails.toCsv(true));
     csvData.push("");
 
-    // Append editions
     this.editions.forEach((edition, index) => {
       csvData.push(edition.toCsv(index === 0));
     });
     if (this.editions.length > 0) csvData.push("");
 
-    // Append cards
     this.cards.forEach((card, index) => {
       csvData.push(card.toCsv(index === 0));
     });

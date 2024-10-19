@@ -8,6 +8,6 @@
       "@sjw/*": ["./*"]
     }
   },
-  "include": ["tools", "types", "parser/**/*.ts"],
+  "include": ["utils/**/*.ts", "types/**/*.ts", "parser/**/*.ts", "utils/fs/fs.ts"],
   "exclude": ["node_modules", "dist"]
 }

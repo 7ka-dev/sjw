@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "exports": {
-    "./tools/*": "./tools/*",
+    "./utils/*": "./utils/*",
+    "./utils/fs/*": "./utils/fs/*",
     "./types/*": "./types/*"
   },
   "scripts": {
