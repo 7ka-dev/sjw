@@ -27,6 +27,21 @@ importers:
         specifier: ^4.19.1
         version: 4.19.1
 
+  apps/seeder:
+    devDependencies:
+      '@sjw/eslint-config':
+        specifier: workspace:^
+        version: link:../../packages/eslint-config
+      '@sjw/sjw-lib':
+        specifier: workspace:^
+        version: link:../../packages/lib
+      '@sjw/typescript-config':
+        specifier: workspace:^
+        version: link:../../packages/typescript-config
+      tsx:
+        specifier: ^4.19.1
+        version: 4.19.1
+
   packages/eslint-config:
     devDependencies:
       '@eslint/js':

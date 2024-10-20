@@ -1,11 +1,18 @@
 export type GameName = "CAH" | "SJW";
 
+export const gameNameMap: Record<GameName, string> = {
+  CAH: "Cards Against Humanity",
+  SJW: "Sleepy Joe's Will",
+};
+
 export type SetMetadata = {
   uuid: string;
   name: string;
 };
 
 export type Metadata = Partial<Record<GameName, SetMetadata[]>>;
+
+export type CardEditionMap = Record<string, number>;
 
 export type CsvTemplate = {
   toCsv: (withHeaders?: boolean) => string;
@@ -23,9 +30,10 @@ export type Edition = CsvTemplate & {
   description: string;
   edition: string;
   version: string;
-  column: number;
   releaseDate: string;
   author: string;
+  column: number;
+  offset: number;
 };
 
 export type Card = CsvTemplate & {

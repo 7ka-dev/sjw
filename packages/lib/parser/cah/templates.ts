@@ -13,7 +13,6 @@ export const SET_CARD_HEADERS = [
   "text",
   "draw",
   "pick",
-  "editions",
 ];
 export const SET_EDITION_HEADERS = [
   "uuid",
@@ -22,6 +21,7 @@ export const SET_EDITION_HEADERS = [
   "description",
   "author",
   "releaseDate",
+  "column",
 ];
 export const SET_DETAILS_HEADERS = ["uuid", "name", "description"];
 
@@ -58,6 +58,7 @@ export const NewEdition = (
   releaseDate: "",
   author: "",
   column: 0,
+  offset: 0,
   getHeaders() {
     return customHeaders;
   },

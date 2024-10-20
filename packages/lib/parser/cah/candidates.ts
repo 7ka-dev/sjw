@@ -18,7 +18,7 @@ export const parseCandidate = async (rows: any[]): Promise<SetDataset> => {
   return dataset;
 };
 
-export const ParseSetDetails = (rows: any[], dataset: SetDataset): any[] => {
+const ParseSetDetails = (rows: any[], dataset: SetDataset): any[] => {
   let detailsSize = 2;
   if (rows.length < detailsSize) {
     dataset.appendError(NewParsingError("Not enough rows to parse SetDetails"));
@@ -30,9 +30,6 @@ export const ParseSetDetails = (rows: any[], dataset: SetDataset): any[] => {
     dataset.appendError(NewParsingError("Not enough rows to parse SetDetails"));
   }
   const editions: Edition[] = [];
-  if (editionOffset > 0) {
-    // TODO collect editions
-  }
 
   if (rows[editionOffset][0] !== "Set")
     dataset.appendError(
@@ -52,17 +49,26 @@ export const ParseSetDetails = (rows: any[], dataset: SetDataset): any[] => {
   }
   dataset.setDetails.name = setName;
   dataset.setDetails.description = rows[editionOffset + 1][1] || "";
-  for (let i = 3; i < rows[editionOffset].length; i++) {
-    if (!EDITION_VERSION_REGEX.test(rows[editionOffset][i])) {
+  const CARD_EDITIONS_START = 3;
+  for (let i = 0; i < rows[editionOffset].length - CARD_EDITIONS_START; i++) {
+    const templateColumn = CARD_EDITIONS_START + i;
+    if (!EDITION_VERSION_REGEX.test(rows[editionOffset][templateColumn])) {
       dataset.appendError(
-        NewParsingError(`version must be in the format vX.X`, editionOffset, i)
+        NewParsingError(
+          `version must be in the format vX.X`,
+          editionOffset,
+          templateColumn
+        )
       );
       continue;
     }
     const edition = NewEdition();
-    edition.version = rows[editionOffset][i];
+    edition.version = rows[editionOffset][templateColumn];
+    if (editionOffset > 0) {
+      edition.edition = rows[0][templateColumn];
+    }
+    edition.offset = CARD_EDITIONS_START;
     edition.column = i;
-
     editions.push(edition);
   }
 
@@ -71,11 +77,11 @@ export const ParseSetDetails = (rows: any[], dataset: SetDataset): any[] => {
   return rows.slice(detailsSize);
 };
 
-export const normalizePromptPlaceholder = (text: string): string => {
+const normalizePromptPlaceholder = (text: string): string => {
   return text.replace(RESPONSE_PLACEHOLDER_REGEX, "_____");
 };
 
-export const ParseCards = (rows: any[], dataset: SetDataset): any[] => {
+const ParseCards = (rows: any[], dataset: SetDataset): any[] => {
   for (let i = 0; i < rows.length; i++) {
     let hasErrors = false;
     if (rows[i].every((value: string) => value == "")) {
@@ -124,7 +130,7 @@ export const ParseCards = (rows: any[], dataset: SetDataset): any[] => {
     const card = NewCard(dataset.editions.map((edition) => edition.uuid));
 
     dataset.editions.forEach((edition) => {
-      const editionValue = rows[i][edition.column];
+      const editionValue = rows[i][edition.column + edition.offset];
       if (editionValue) {
         card[edition.uuid] = edition.uuid;
       }
