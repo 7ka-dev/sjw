@@ -7,7 +7,7 @@ import {
   SetDataset,
   SetDetails,
 } from "../../types/types";
-export const CARD_HEADERS = [
+export const SET_CARD_HEADERS = [
   "uuid",
   "suite",
   "text",
@@ -15,7 +15,7 @@ export const CARD_HEADERS = [
   "pick",
   "editions",
 ];
-export const EDITION_HEADERS = [
+export const SET_EDITION_HEADERS = [
   "uuid",
   "edition",
   "version",
@@ -27,7 +27,7 @@ export const SET_DETAILS_HEADERS = ["uuid", "name", "description"];
 
 export const NewCard = (
   editions: string[],
-  customHeaders: string[] = CARD_HEADERS
+  customHeaders: string[] = SET_CARD_HEADERS
 ): Card => {
   const card: Card = {
     uuid: v4(),
@@ -49,7 +49,7 @@ export const NewCard = (
 };
 
 export const NewEdition = (
-  customHeaders: string[] = EDITION_HEADERS
+  customHeaders: string[] = SET_EDITION_HEADERS
 ): Edition => ({
   uuid: v4(),
   edition: "",
@@ -81,8 +81,8 @@ export const NewSetDetails = (
 });
 
 export const NewDataset = (
-  cardHeaders: string[] = CARD_HEADERS,
-  editionHeaders: string[] = EDITION_HEADERS
+  cardHeaders: string[] = SET_CARD_HEADERS,
+  editionHeaders: string[] = SET_EDITION_HEADERS
 ): SetDataset => ({
   setDetails: NewSetDetails(),
   currentLine: 0,
@@ -107,7 +107,7 @@ export const NewDataset = (
       csvData.push(card.toCsv(index === 0));
     });
 
-    return csvData.join("\n");
+    return csvData.join("\r\n");
   },
   hasErrors() {
     return this.errors.length > 0;
