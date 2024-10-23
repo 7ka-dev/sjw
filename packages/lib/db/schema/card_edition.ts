@@ -6,6 +6,7 @@ import {
 } from "drizzle-orm/pg-core";
 import { Card } from "./card";
 import { Edition } from "./edition";
+import { sql } from "drizzle-orm";
 
 export const CardEdition = table(
   "card_edition",
@@ -16,8 +17,12 @@ export const CardEdition = table(
     editionUuid: uuid("edition_uuid")
       .notNull()
       .references(() => Edition.uuid, { onDelete: "cascade" }),
-    createdAt: bigint("created_at", { mode: "number" }).notNull(),
-    modifiedAt: bigint("modified_at", { mode: "number" }).notNull(),
+    createdAt: bigint("created_at", { mode: "number" })
+      .notNull()
+      .default(sql`extract(epoch from now())`),
+    modifiedAt: bigint("modified_at", { mode: "number" })
+      .notNull()
+      .default(sql`extract(epoch from now())`),
   },
   (t) => {
     return {

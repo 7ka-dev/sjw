@@ -1,3 +1,4 @@
+import { sql } from "drizzle-orm";
 import {
   pgEnum,
   pgTable as table,
@@ -11,6 +12,10 @@ export const Card = table("card", {
   uuid: uuid("uuid").primaryKey().defaultRandom(),
   text: text("text").notNull(),
   suite: suiteEnum("suite").notNull(),
-  createdAt: bigint("created_at", { mode: "number" }).notNull(),
-  modifiedAt: bigint("modified_at", { mode: "number" }).notNull(),
+  createdAt: bigint("created_at", { mode: "number" })
+    .notNull()
+    .default(sql`extract(epoch from now())`),
+  modifiedAt: bigint("modified_at", { mode: "number" })
+    .notNull()
+    .default(sql`extract(epoch from now())`),
 });

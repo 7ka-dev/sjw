@@ -1,3 +1,4 @@
+import { sql } from "drizzle-orm";
 import {
   pgTable as table,
   uuid,
@@ -12,8 +13,12 @@ export const Tag = table(
     uuid: uuid("uuid").primaryKey().defaultRandom(),
     name: varchar("name", { length: 255 }).notNull(),
     category: varchar("category", { length: 255 }).notNull(),
-    createdAt: bigint("created_at", { mode: "number" }).notNull(),
-    modifiedAt: bigint("modified_at", { mode: "number" }).notNull(),
+    createdAt: bigint("created_at", { mode: "number" })
+      .notNull()
+      .default(sql`extract(epoch from now())`),
+    modifiedAt: bigint("modified_at", { mode: "number" })
+      .notNull()
+      .default(sql`extract(epoch from now())`),
   },
   (t) => {
     return {

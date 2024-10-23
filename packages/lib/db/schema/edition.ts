@@ -6,6 +6,7 @@ import {
   bigint,
 } from "drizzle-orm/pg-core";
 import { CardSet } from "./card_set";
+import { sql } from "drizzle-orm";
 
 export const Edition = table("edition", {
   uuid: uuid("uuid").primaryKey().defaultRandom(),
@@ -16,6 +17,10 @@ export const Edition = table("edition", {
   edition: varchar("edition", { length: 55 }),
   version: varchar("version", { length: 15 }).notNull(),
   releasedAt: bigint("released_at", { mode: "number" }),
-  createdAt: bigint("created_at", { mode: "number" }).notNull(),
-  modifiedAt: bigint("modified_at", { mode: "number" }).notNull(),
+  createdAt: bigint("created_at", { mode: "number" })
+    .notNull()
+    .default(sql`extract(epoch from now())`),
+  modifiedAt: bigint("modified_at", { mode: "number" })
+    .notNull()
+    .default(sql`extract(epoch from now())`),
 });

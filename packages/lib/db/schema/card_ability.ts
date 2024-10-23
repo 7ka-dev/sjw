@@ -6,6 +6,7 @@ import {
   varchar,
 } from "drizzle-orm/pg-core";
 import { Card } from "./card";
+import { sql } from "drizzle-orm";
 
 export const CardAbility = table(
   "card_ability",
@@ -17,8 +18,12 @@ export const CardAbility = table(
       .notNull()
       .references(() => Card.uuid, { onDelete: "cascade" }),
     value: varchar("value", { length: 255 }).notNull(),
-    createdAt: bigint("created_at", { mode: "number" }).notNull(),
-    modifiedAt: bigint("modified_at", { mode: "number" }).notNull(),
+    createdAt: bigint("created_at", { mode: "number" })
+      .notNull()
+      .default(sql`extract(epoch from now())`),
+    modifiedAt: bigint("modified_at", { mode: "number" })
+      .notNull()
+      .default(sql`extract(epoch from now())`),
   },
   (t) => {
     return {

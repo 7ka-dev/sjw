@@ -6,6 +6,7 @@ import {
 } from "drizzle-orm/pg-core";
 import { CardSet } from "./card_set";
 import { Tag } from "./tag";
+import { sql } from "drizzle-orm";
 
 export const SetTag = table(
   "set_tag",
@@ -16,8 +17,12 @@ export const SetTag = table(
     tag_uuid: uuid("tag_uuid")
       .notNull()
       .references(() => Tag.uuid, { onDelete: "cascade" }),
-    createdAt: bigint("created_at", { mode: "number" }).notNull(),
-    modifiedAt: bigint("modified_at", { mode: "number" }).notNull(),
+    createdAt: bigint("created_at", { mode: "number" })
+      .notNull()
+      .default(sql`extract(epoch from now())`),
+    modifiedAt: bigint("modified_at", { mode: "number" })
+      .notNull()
+      .default(sql`extract(epoch from now())`),
   },
   (t) => {
     return {
