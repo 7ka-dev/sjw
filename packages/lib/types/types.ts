@@ -30,7 +30,7 @@ export type Edition = CsvTemplate & {
   description: string;
   edition: string;
   version: string;
-  releaseDate: string;
+  releaseDate: number|null;
   author: string;
   column: number;
   offset: number;

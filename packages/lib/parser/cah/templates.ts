@@ -55,7 +55,7 @@ export const NewEdition = (
   edition: "",
   version: "",
   description: "",
-  releaseDate: "",
+  releaseDate: 0,
   author: "",
   column: 0,
   offset: 0,

@@ -65,6 +65,11 @@ const validateString = (
   }
 };
 
+const validateDate = (date: string) => {
+  if (date && !isNaN(Date.parse(date))) {
+    throw new Error("Value must be a valid date");
+  }
+};
 const validateNumber = (num: number) => {
   if (typeof num !== "number" || isNaN(num)) {
     throw new Error("Value must be a valid number");
@@ -92,6 +97,7 @@ const validateEditionDetails = (row: any[]) => {
   const version = row[2];
   validateUuid(uuid);
   validateString(version, EDITION_VERSION_REGEX);
+  validateDate(row[4]);
 };
 
 const validateCardDetails = (row: any[], editions: CardEditionMap) => {
@@ -149,7 +155,7 @@ const ParseEditions = (rows: any[], dataset: SetDataset): any[] => {
     edition.edition = row[1];
     edition.version = row[2];
     edition.description = row[3];
-    edition.releaseDate = row[4];
+    edition.releaseDate = row[4] ? new Date(row[4]).getTime() : null;
     edition.author = row[5];
     edition.column = parseInt(row[6], 10);
     editions.push(edition);
