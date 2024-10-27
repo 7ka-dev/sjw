@@ -1,5 +1,5 @@
 {
-  "name": "seeder",
+  "name": "@sjw/seeder",
   "version": "1.0.0",
   "description": "A script to seed the database with data from the datasets folder.",
   "main": "index.ts",

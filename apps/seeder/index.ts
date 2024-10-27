@@ -6,24 +6,17 @@ import {
 } from "@sjw/sjw-lib/utils/fs/datasets.ts";
 import { readMetadata } from "@sjw/sjw-lib/utils/fs/metadata.ts";
 import { parseCahDataset } from "@sjw/sjw-lib/parser/cah/datasets.ts";
+import { seedDataset } from "@sjw/sjw-lib/db/seed.ts";
 
 const importDataset = async (fileName: string): Promise<SetMetadata> => {
   const rows = await readDataset(fileName);
   const dataset = await parseCahDataset(rows);
   console.log(dataset);
-  //   const savedDataset = await seedDataset(dataset);
+  const savedDataset = await seedDataset(dataset);
 
-  //   // todo add method to dataset
-  //   const metadata: SetMetadata = {
-  //     uuid: savedDataset.setDetails.uuid,
-  //     name: savedDataset.setDetails.name,
-  //   };
-
-  //   await saveDataset(savedDataset);
   const metadata: SetMetadata = {
-    //!! TODO DELETE AFTER TESTING
-    uuid: dataset.setDetails.uuid,
-    name: dataset.setDetails.name,
+    uuid: savedDataset.setDetails.uuid,
+    name: savedDataset.setDetails.name,
   };
 
   return metadata;
