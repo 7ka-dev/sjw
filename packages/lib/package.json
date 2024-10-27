@@ -7,11 +7,16 @@
     "./utils/*": "./utils/*",
     "./utils/fs/*": "./utils/fs/*",
     "./types/*": "./types/*",
-    "./parser/cah/*": "./parser/cah/*"
+    "./parser/cah/*": "./parser/cah/*",
+    "./db/*": "./db/*",
+    "./docs/readme/*": "./docs/readme/*"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lint": "eslint . --max-warnings 0"
+    "lint": "eslint . --max-warnings 0",
+    "drizzle:generate": "drizzle-kit generate",
+    "drizzle:drop": "drizzle-kit drop",
+    "migrate": "tsx db/migrate.ts"
   },
   "keywords": [],
   "author": "",
@@ -22,8 +27,12 @@
     "@types/node": "^22.7.5",
     "@types/papaparse": "^5.3.14",
     "@types/uuid": "^10.0.0",
+    "dotenv": "^16.4.5",
+    "drizzle-kit": "^0.26.2",
+    "drizzle-orm": "^0.35.3",
     "eslint": "^9.12.0",
     "papaparse": "^5.4.1",
+    "postgres": "^3.4.4",
     "uuid": "^10.0.0"
   }
 }

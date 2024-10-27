@@ -8,6 +8,14 @@
       "@sjw/*": ["./*"]
     }
   },
-  "include": ["utils/**/*.ts", "types/**/*.ts", "parser/**/*.ts", "utils/fs/fs.ts"],
+  "include": [
+    "utils/**/*.ts",
+    "types/**/*.ts",
+    "parser/**/*.ts",
+    "utils/fs/fs.ts",
+    "docs/**/*.ts",
+    "db/**/*.ts",
+    "./drizzle.config.ts"
+  ],
   "exclude": ["node_modules", "dist"]
 }
