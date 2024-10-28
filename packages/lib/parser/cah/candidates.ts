@@ -9,6 +9,7 @@ import { NewCard, NewDataset, NewEdition } from "./templates";
 export const parseCandidate = async (rows: any[]): Promise<SetDataset> => {
   const dataset = NewDataset();
   rows = ParseSetDetails(rows, dataset);
+  console.log(dataset.currentLine, " current line");
   rows = ParseCards(rows, dataset);
   if (rows.length > 0) {
     dataset.appendError(
@@ -25,7 +26,7 @@ const ParseSetDetails = (rows: any[], dataset: SetDataset): any[] => {
   }
   const editionOffset = rows[0][1] === "Edition" ? 1 : 0;
   detailsSize += editionOffset;
-  dataset.currentLine = editionOffset;
+  dataset.currentLine = detailsSize;
   if (rows.length < detailsSize) {
     dataset.appendError(NewParsingError("Not enough rows to parse SetDetails"));
   }
@@ -53,6 +54,7 @@ const ParseSetDetails = (rows: any[], dataset: SetDataset): any[] => {
   for (let i = 0; i < rows[editionOffset].length - CARD_EDITIONS_START; i++) {
     const templateColumn = CARD_EDITIONS_START + i;
     if (!EDITION_VERSION_REGEX.test(rows[editionOffset][templateColumn])) {
+      console.log(rows[editionOffset][templateColumn]);
       dataset.appendError(
         NewParsingError(
           `version must be in the format vX.X`,
@@ -86,10 +88,14 @@ const ParseCards = (rows: any[], dataset: SetDataset): any[] => {
     let hasErrors = false;
     if (rows[i].every((value: string) => value == "")) {
       dataset.currentLine += 1;
+      console.log("empty row", i);
       continue; // skip empty rows
     }
     const suite = rows[i][0];
     if (suite !== "Prompt" && suite !== "Response") {
+      console.log(dataset.currentLine, " current line");
+      console.log(rows[i]);
+      console.log(i), " i";
       dataset.appendError(
         NewParsingError(
           "Suite must be either 'Prompt' or 'Response'",
