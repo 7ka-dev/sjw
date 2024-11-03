@@ -1,32 +1,85 @@
-# Makefile
 
-# Step 1: Stop Docker Compose
-down:
-	docker compose down
+# studio: 
+# 	cd packages/lib && pnpm drizzle-kit studio
+include .env
 
-# Step 2: Remove sjw_postgres-data volume
-remove_volume:
-	docker volume rm sjw_postgres-data || echo "Volume 'sjw_postgres-data' does not exist."
+# Seeder environment variables
+SEEDER_POSTGRES_USER=sleepyjoe
+SEEDER_POSTGRES_PASSWORD=endofquote
+SEEDER_POSTGRES_DB=sjw_db
+SEEDER_DIR=seeder-data
+SEEDER_CONTAINER_NAME=seeder
 
-# Step 3: Start Docker Compose
-up:
-	docker compose up -d
+# Image names
+IMAGE_NAME=postgres:latest
+BACKUP_IMAGE_NAME=postgres-backup:latest
+DOCKER_IMAGE_NAME=dev7ka/sjw:latest
 
-# Step 4: Run pnpm command for apps/builder
-run_builder:
-	pnpm --filter ./apps/builder start
+# Test environment variables
+TEST_POSTGRES_USER=testuser
+TEST_POSTGRES_PASSWORD=testpassword
+TEST_POSTGRES_DB=testdb
+TEST_CONTAINER_NAME=test-db
+TEST_DIR=test-data
 
-# Step 5: Run pnpm command for apps/seeder
-run_seeder:
-	pnpm --filter ./apps/seeder start
+# Start a PostgreSQL container for seeding data
+init_seeder:
+	@echo "Starting PostgreSQL container for seeder..."
+	mkdir -p $(DATA_DIR)
+	docker run --rm \
+		--name $(CONTAINER_NAME) \
+		-e POSTGRES_USER=$(DB_USER) \
+		-e POSTGRES_PASSWORD=$(DB_PASSWORD) \
+		-e POSTGRES_DB=$(DB_NAME) \
+		-v $(PWD)/$(DATA_DIR):/var/lib/postgresql/data \
+		-p $(DB_PORT):5432 \
+		-d $(IMAGE_NAME)
+	sleep 10
 
-commit_sjw_db:
-	docker commit sjw-db dev7ka/sjw:latest
-	docker push dev7ka/sjw:latest
 
-# Combined target to run all steps
-db: down remove_volume up run_builder run_seeder commit_sjw_db
-	@echo "Restart and seeding complete."
 
-studio: 
-	cd packages/lib && pnpm drizzle-kit studio
+migrate_seeder:
+	pnpm seeder:build
+
+populate_seeder:
+	@echo "Populating seeder database..."
+	pnpm seeder:seed
+
+# Stop and remove the seeder container
+cleanup_seeder:
+	@echo "Stopping and removing seeder PostgreSQL container..."
+	docker stop $(SEEDER_CONTAINER_NAME)
+
+# Build a Docker image based on the current setup
+build_image:
+	@echo "Building Docker image..."
+	docker build -t $(DOCKER_IMAGE_NAME) .
+
+# Test the built image by running a container with test configuration
+test_image:
+	@echo "Starting PostgreSQL container for testing..."
+	mkdir -p $(DATA_DIR_TEST)
+	docker run --rm \
+		--name $(CONTAINER_NAME_TEST) \
+		-e POSTGRES_USER=$(DB_USER_TEST) \
+		-e POSTGRES_PASSWORD=$(DB_PASSWORD_TEST) \
+		-e POSTGRES_DB=$(DB_NAME_TEST) \
+		-v $(PWD)/$(DATA_DIR_TEST):/var/lib/postgresql/data \
+		-p $(DB_PORT_TEST):5432 \
+		-d $(DOCKER_IMAGE_NAME)
+	sleep 10
+
+# Stop and clean up the test container and test data directory
+cleanup_test:
+	@echo "Stopping and removing test PostgreSQL container..."
+	docker stop $(TEST_CONTAINER_NAME)
+	docker rm $(TEST_CONTAINER_NAME)
+	rm -rf $(TEST_DIR)
+	rm -rf $(SEEDER_DIR)
+
+rebuild_test:
+	@echo "Rebuilding test container..."
+	rm -rf $(DATA_DIR_TEST)
+	docker rm -f $(TEST_CONTAINER_NAME)
+	$(MAKE) build_image
+	$(MAKE) test_image
