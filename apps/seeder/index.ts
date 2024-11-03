@@ -7,12 +7,20 @@ import {
 import { readMetadata } from "@sjw/sjw-lib/utils/fs/metadata.ts";
 import { parseCahDataset } from "@sjw/sjw-lib/parser/cah/datasets.ts";
 import { seedDataset } from "@sjw/sjw-lib/db/seed.ts";
+import dotenv from "dotenv";
+import { newDB } from "@sjw/sjw-lib/db/client.js";
+import path from "path";
+
+dotenv.config({ path: path.resolve(__dirname, "../../.env") });
 
 const importDataset = async (fileName: string): Promise<SetMetadata> => {
   const rows = await readDataset(fileName);
   const dataset = await parseCahDataset(rows);
   console.log(dataset);
-  const savedDataset = await seedDataset(dataset);
+  const savedDataset = await seedDataset(
+    newDB(process.env.DATABASE_URL as string),
+    dataset
+  );
 
   const metadata: SetMetadata = {
     uuid: savedDataset.setDetails.uuid,

@@ -4,12 +4,11 @@ import {
 } from "../../types/regex";
 import { Edition, SetDataset } from "../../types/types";
 import { NewParsingError } from "./errors";
-import { NewCard, NewDataset, NewEdition } from "./templates";
+import { NewCard, NewDataset, NewEdition, nextVersion } from "./templates";
 
 export const parseCandidate = async (rows: any[]): Promise<SetDataset> => {
   const dataset = NewDataset();
   rows = ParseSetDetails(rows, dataset);
-  console.log(dataset.currentLine, " current line");
   rows = ParseCards(rows, dataset);
   if (rows.length > 0) {
     dataset.appendError(
@@ -54,7 +53,6 @@ const ParseSetDetails = (rows: any[], dataset: SetDataset): any[] => {
   for (let i = 0; i < rows[editionOffset].length - CARD_EDITIONS_START; i++) {
     const templateColumn = CARD_EDITIONS_START + i;
     if (!EDITION_VERSION_REGEX.test(rows[editionOffset][templateColumn])) {
-      console.log(rows[editionOffset][templateColumn]);
       dataset.appendError(
         NewParsingError(
           `version must be in the format vX.X`,
@@ -74,6 +72,15 @@ const ParseSetDetails = (rows: any[], dataset: SetDataset): any[] => {
     editions.push(edition);
   }
 
+  if (editions.length === 0) {
+    const edition = NewEdition();
+    edition.version = nextVersion();
+    edition.offset = CARD_EDITIONS_START;
+    edition.column = 0;
+    editions.push(edition);
+    dataset.singleVersion = true;
+  }
+
   dataset.editions = editions;
 
   return rows.slice(detailsSize);
@@ -88,14 +95,10 @@ const ParseCards = (rows: any[], dataset: SetDataset): any[] => {
     let hasErrors = false;
     if (rows[i].every((value: string) => value == "")) {
       dataset.currentLine += 1;
-      console.log("empty row", i);
       continue; // skip empty rows
     }
     const suite = rows[i][0];
     if (suite !== "Prompt" && suite !== "Response") {
-      console.log(dataset.currentLine, " current line");
-      console.log(rows[i]);
-      console.log(i), " i";
       dataset.appendError(
         NewParsingError(
           "Suite must be either 'Prompt' or 'Response'",
@@ -137,7 +140,7 @@ const ParseCards = (rows: any[], dataset: SetDataset): any[] => {
 
     dataset.editions.forEach((edition) => {
       const editionValue = rows[i][edition.column + edition.offset];
-      if (editionValue) {
+      if (editionValue || dataset.singleVersion) {
         card[edition.uuid] = edition.uuid;
       }
     });

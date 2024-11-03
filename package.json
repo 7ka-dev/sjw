@@ -4,7 +4,10 @@
   "description": "Sleepy Joe's Will is a witty and engaging party game that invites players to dive into the zany world of Sleepy Joe's quirky estate. Drawing inspiration from the mechanics of popular card games like Cards Against Humanity, this game combines humor and creativity to create a memorable experience.\nIn Sleepy Joe's Will, players take turns drawing cards from two decks: one featuring prompts and the other filled with hilarious and absurd responses. The goal is to match the prompts with the funniest or most fitting responses to win rounds and collect points. With each round, the game reveals more about Sleepy Joe's eccentric personality and his bizarre bequests, leading to unpredictable and laugh-out-loud moments.\nWhether you're a fan of dark humor, clever wordplay, or just enjoy a good laugh with friends, Sleepy Joe's Will promises endless entertainment and playful competition. Perfect for game nights and social gatherings, it challenges your creativity and sense of humor while exploring the eccentricities of Sleepy Joe's unique legacy.",
   "scripts": {
     "lint": "turbo lint",
-    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "dataset:clean": "pnpm --filter ./apps/janitor start",
+    "seeder:build": "pnpm --filter ./apps/builder start",
+    "seeder:seed": "pnpm --filter ./apps/seeder start"
   },
   "keywords": [
     "sjw",
@@ -12,7 +15,8 @@
     "sleepy joe"
   ],
   "devDependencies": {
-    "eslint": "^9.12.0",
+    "dotenv": "^16.4.5",
+    "eslint": "^9.13.0",
     "prettier": "^3.2.5",
     "typescript": "^5.4.5"
   },

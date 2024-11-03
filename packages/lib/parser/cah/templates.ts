@@ -7,13 +7,7 @@ import {
   SetDataset,
   SetDetails,
 } from "../../types/types";
-export const SET_CARD_HEADERS = [
-  "uuid",
-  "suite",
-  "text",
-  "draw",
-  "pick",
-];
+export const SET_CARD_HEADERS = ["uuid", "suite", "text", "draw", "pick"];
 export const SET_EDITION_HEADERS = [
   "uuid",
   "edition",
@@ -24,6 +18,11 @@ export const SET_EDITION_HEADERS = [
   "column",
 ];
 export const SET_DETAILS_HEADERS = ["uuid", "name", "description"];
+
+export const nextVersion = (version?: string) => {
+  if (!version) return "v1.0";
+  throw new Error("Not implemented");
+};
 
 export const NewCard = (
   editions: string[],
@@ -90,6 +89,7 @@ export const NewDataset = (
   editions: [],
   cards: [],
   errors: [],
+  singleVersion: false,
   getHeaders() {
     return [];
   },

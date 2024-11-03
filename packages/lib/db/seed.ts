@@ -1,6 +1,6 @@
 import { NewSet, NewEdition, NewCard, NewCardEdition } from "./types";
 import { SetDataset } from "../types/types";
-import { newDB } from "./client";
+import * as schema from "./schema/index";
 import {
   Card,
   CardAbility,
@@ -8,9 +8,14 @@ import {
   CardSet,
   Edition,
 } from "./schema/index";
+import { PostgresJsDatabase } from "drizzle-orm/postgres-js";
 
-export const seedDataset = async (dataset: SetDataset): Promise<SetDataset> => {
-  const db = newDB();
+export const seedDataset = async (
+  db: PostgresJsDatabase<typeof schema> & {
+    close: () => Promise<void>;
+  },
+  dataset: SetDataset
+): Promise<SetDataset> => {
   try {
     const abilities = await db.query.Ability.findMany({
       columns: {
@@ -23,6 +28,9 @@ export const seedDataset = async (dataset: SetDataset): Promise<SetDataset> => {
       name: dataset.setDetails.name,
       description: dataset.setDetails.description,
     };
+    if (abilities.length === 0) {
+      throw new Error("No abilities found");
+    }
 
     await db.insert(CardSet).values(newSet);
 

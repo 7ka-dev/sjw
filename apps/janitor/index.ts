@@ -15,6 +15,7 @@ const cleanseCandidate = async (
   const dataset = await parseCandidate(rows);
   if (dataset.errors.length > 0) {
     // todo add errors to dataset file
+    console.log(dataset.errors);
     return;
   }
 

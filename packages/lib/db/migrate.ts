@@ -2,14 +2,14 @@ import path from "path";
 
 import { drizzle } from "drizzle-orm/postgres-js";
 import { migrate as m } from "drizzle-orm/postgres-js/migrator";
-import postgres from "postgres";
 import * as schema from "./schema/index";
-import "dotenv/config";
+import { newClient } from "./client";
 
-const client = postgres(process.env.DATABASE_URL! as string, { max: 1 });
+console.log("Starting migrations...");
 const migrations = path.resolve(__dirname, "./migrations");
 
-export const migrate = async () => {
+export const migrate = async (url: string) => {
+  const client = newClient(url);
   await m(drizzle(client), {
     migrationsFolder: migrations,
   });

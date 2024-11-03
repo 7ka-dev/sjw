@@ -51,6 +51,7 @@ export type SetDataset = CsvTemplate & {
   cards: Card[];
   errors: ParsingError[];
   currentLine: number;
+  singleVersion: boolean;
   hasErrors: () => boolean;
   appendError: (error: ParsingError) => void;
 };
