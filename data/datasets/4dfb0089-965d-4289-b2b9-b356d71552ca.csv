@@ -1,0 +1,110 @@
+uuid,name,description
+4dfb0089-965d-4289-b2b9-b356d71552ca,Cards Against Humanity: Fourth Expansion,"Released November 21, 2013. Discontinued as of November 21, 2016 as a separate expansion. Still available for purchase while supplies last. This expansion has been incorporated into the Blue Box Expansion. Icon: The number ""4"". "
+
+uuid,edition,version,description,author,releaseDate,column
+07c54d11-af9c-4e90-880e-fe139cd751a4,,v1.0,,,0,0
+4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb,,v1.1,,,0,1
+
+uuid,suite,text,draw,pick,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+145fcc06-de89-416f-b297-e5748a4ea136,Prompt,"______ may pass, but ______ will last forever.",0,2,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+f3e8e34f-6294-4eef-8a1b-0bf2fb4498c9,Prompt,______ will never be the same after ______.,0,2,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+c8aafed0-1e1b-480e-ab79-119b71494b6a,Prompt,"2 AM in the city that never sleeps. The door swings open and she walks in, legs up to here. Something in her eyes tells me she's looking for ______.",0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+c0d2f43e-c04d-4d5f-bad6-29c782d19dea,Prompt,"Adventure. Romance. ______. From Paramount Pictures, ""______.""",0,2,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+a0bdb7cb-9c4e-4690-84d5-a8ebd62d4c78,Prompt,"Alright, bros. Our frat house is condemned, and all the hot slampieces are over at Gamma Phi. The time has come to commence Operation ______.",0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,
+a825c0c1-28fd-4905-a4b5-17ef480406cd,Prompt,"As king, how will I keep the peasants in line?",0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+02258f30-c0c1-4997-9723-16e66f0e9b8a,Prompt,"Dammit, Gary.  You can't just solve every problem with ______.",0,0,,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+6983ff12-ef85-4a5c-9e20-2530160f3337,Prompt,"Dear Leader Kim Jong-un, our village praises your infinite wisdom with a humble offering of ______.",0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+bc039136-26dd-4367-822f-1317e4bebff9,Prompt,Do not fuck with me! I am literally ______ right now.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+9bb29184-828e-4e2e-bad8-51b65f37bae1,Prompt,Every step towards ______ gets me a little bit closer to ______.,0,2,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+aa0596ad-4c91-4d01-be1c-7726b954df58,Prompt,"Forget everything you know about ______, because now we've supercharged it with ______!",0,2,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+7076758b-4135-4737-9b58-c20bb2383472,Prompt,"Honey, I have a new role-play I want to try tonight! You can be ______, and I'll be ______.",0,2,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+24000924-cf79-49de-bbcd-7bc9e74295d6,Prompt,How am I compensating for my tiny penis?,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+07f4ba62-5082-4e60-b8f4-ee7c47b7c179,Prompt,"I am become ______, destroyer of ______!",0,2,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+a2e43b59-79ec-405c-8bac-238bfc08c777,Prompt,"I'm pretty sure I'm high right now, because I'm absolutely mesmerized by ______.",0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+88a172c6-854d-4bae-a63b-a18f8b74ae22,Prompt,"I'm sorry, sir, but we don't allow ______ at the country club.",0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+e968fe50-a46f-4ca4-96c7-79237bf1a78a,Prompt,"If you can't handle ______, you'd better stay away from ______.",0,2,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+20329274-81e7-4f4c-b2f5-7667ec148bb4,Prompt,"In return for my soul, the Devil promised me ______, but all I got was ______.",0,2,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+d1012c50-5eb1-4744-8b02-41302ebafcca,Prompt,"In the beginning, there was ______. And the Lord said, ""Let there be ______.""",0,2,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+3b9a68cf-4b5b-4d59-83e7-afde0b90a8f7,Prompt,"It lurks in the night. It hungers for flesh. This summer, no one is safe from ______.",0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+8a5db42f-cb01-4dac-86dc-19516ab20f85,Prompt,"Man, this is bullshit. Fuck ______.",0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+f13e3a85-674e-497e-bc91-40dbc0a6806a,Prompt,"Oprah's book of the month is ""______ For ______: A Story of Hope.""",0,2,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+d2b3f36c-7836-48b8-819d-b0565e9ec5e1,Prompt,She's up all night for good fun. I'm up all night for ______.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+6b39f6cc-758d-4a52-9fd5-72166340649b,Prompt,"The Japanese have developed a smaller, more efficient version of ______.",0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+072d2126-4789-4f4a-951f-b45235597f74,Prompt,"This is the prime of my life. I'm young, hot, and full of ______.",0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+4dca1ae6-ad38-45df-9a0e-7ca7bfd9dfae,Prompt,"This year's hottest album is ""______"" by ______.",0,2,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+83c439d5-5fa6-4816-9800-16a9031cb2eb,Prompt,"We never did find ______, but along the way we sure learned a lot about ______.",0,2,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+2e252ce5-72c2-4576-9107-966a76aade9f,Prompt,Wes Anderson's new film tells the story of a precocious child coming to terms with ______.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+edacf85a-05f7-45fa-a714-a009d7021d00,Prompt,What's fun until it gets weird?,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+1cfca726-2598-4a78-a653-414a2644b208,Prompt,"You guys, I saw this crazy movie last night. It opens on ______, and then there's some stuff about ______, and then it ends with ______.",2,3,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+7aea29f3-a571-4390-8260-7dc788669281,Prompt,"You've seen the bearded lady! You've seen the ring of fire! Now, ladies and gentlemen, feast your eyes upon ______!",0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+bf724441-de47-40f3-a44e-36aafa441b6d,Response,10 Incredible Facts About the Anus.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+d5f73966-d74f-46d1-ab4a-31edc743eb2e,Response,A bunch of idiots playing a card game instead of interacting like normal humans.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+bbbf4875-7dd8-42f9-ad03-4eb9a8ccaf90,Response,A dance move that's just sex.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+c0188c36-0de8-4a46-8145-54489fe5e917,Response,A fart.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+8b3e34bf-66af-4621-9f81-eea9f9954cf6,Response,A for-real lizard that spits blood from its eyes.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+ad5752cf-b04f-4c7e-bbda-eda57300ce8f,Response,A gender identity that can only be conveyed through slam poetry.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+c27a0950-a495-4257-9605-e9ea201f8033,Response,A hopeless amount of spiders.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+eaa9d8d6-4982-4234-9833-f9cfb14591fa,Response,A horse with no legs.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+7d418203-b00f-400a-b0c1-85e0c8a7dd0b,Response,A kiss on the lips.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+b9b433b4-33a3-4bd6-8a99-72f1cac448bb,Response,A manhole.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+be7901e8-dd2e-46da-ae1d-1a8b2d53f705,Response,A Native American who solves crimes by going into the spirit world.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+69b2a8e5-4f5a-43b3-b923-14cc2957de6b,Response,A sex comet from Neptune that plunges the Earth into eternal sexiness.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+7fad5516-f08a-4bca-95ef-53dd328ea929,Response,A sex goblin with a carnival penis.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+ab61dced-1319-4d24-b37c-f30fd6f4ce57,Response,A shiny rock that proves I love you.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+e513cf57-cc06-4e25-b7c7-78ba476f98e0,Response,A Ugandan warlord.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+a9e2a074-ba6c-4281-b6d2-e793986265e3,Response,Actual mutants with medical conditions and no superpowers.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+0ba46fe7-a6d9-4c2a-b1b8-d0b6d5714fb8,Response,Africa.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+6e32c77e-91c6-492d-9899-8d6fbcb542e3,Response,All the single ladies.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+91ccd54c-6072-446c-83e6-9a06e4a09367,Response,Almost giving money to a homeless person.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+33e62a50-242f-4b4e-892c-acb1e2fb2818,Response,Ambiguous sarcasm.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+e55709f5-f9ab-4a61-a6f4-447324bc945c,Response,An interracial handshake.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+4a4de0fe-db6f-4e8d-8a92-2d7e7dce1fca,Response,Angelheaded hipsters burning for the ancient heavenly connection to the starry dynamo in the machinery of night.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+3d8ac238-1f54-490a-88b6-fd5a9b900c03,Response,Ass to mouth.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+0b16c8c1-d365-4cc2-a332-23c2588413f9,Response,Blackula.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+5eac50c4-3748-48a8-973f-8c51892d2fb4,Response,Bouncing up and down.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+c4492586-c342-4b9b-86c6-e3027f48e7a8,Response,Calculating every mannerism so as not to suggest homosexuality.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+94aa1416-dac3-4300-a635-6d00b8f4bc56,Response,Child Protective Services.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+2b2168a9-4dd0-4a9e-8b8e-8165acf4fe54,Response,Crazy opium eyes.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+2c8d486d-11d5-468e-b77c-4bf0be738c85,Response,Dem titties.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+73933c80-07ed-41d0-891d-aba9c169ffd2,Response,Depression.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+8a5a5525-74cb-4031-a3f2-24bfcbe643b2,Response,Doo-doo.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+75911d93-92f9-42e7-9d46-a60e19e20aba,Response,Drinking responsibly.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+4e53d6e3-1b71-4d5c-9d19-c76b5b597234,Response,Exploding pigeons.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+4b3bbeae-ad95-44f7-a935-2a01c102b51d,Response,Falling into the toilet.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+8a948ee7-0291-4478-bc0d-dd2600013137,Response,Finally finishing off the Indians.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+88e68e6f-e03d-411a-9585-9f87e3f09ff3,Response,Fucking a corpse back to life.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+3521acb4-e435-4ad8-83c3-74c881548e7d,Response,Grammar nazis who are also regular Nazis.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+1fa49111-7816-492d-af06-605c8a32a418,Response,How awesome I am.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+00b858f3-38f0-484b-b10d-2b7db0ed8151,Response,Injecting speed into one arm and horse tranquilizer into the other.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+3c74382f-8250-4726-9bc8-016dc32abebe,Response,Interspecies marriage.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+e1182b2e-1d92-452d-accf-d1257ad31212,Response,Jizz.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+cf0d7bf7-331f-4eb9-884e-9a8e12b11889,Response,Khakis.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+d8f92047-840d-4cc2-9bed-2b76b96219a5,Response,Lots and lots of abortions.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+920972bd-58eb-4283-9f2b-11140425987f,Response,Moderate-to-severe joint pain.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+6a531842-aca2-4590-923b-6e71ebc16bbe,Response,My dad's dumb fucking face.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+d92a3323-a049-4d8c-b36e-bf4bb262ad12,Response,My sex dungeon.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+9cf73451-3b98-494f-9caf-72743b2f84c3,Response,My worthless son.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+702a8daf-4a48-4c96-b086-aba9c425330a,Response,Neil Diamond's Greatest Hits.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+01e4324b-0da5-47c0-9d35-2749376c45da,Response,"No clothes on, penis in vagina.",0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+ea28c394-8b84-49f8-831f-006a32b9dab5,Response,Party Mexicans.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+3f2d6d7b-24aa-4e5a-a9f4-7773b0c2fb5e,Response,"Prince Ali, fabulous he, Ali Ababwa.",0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+3e4e4ccc-8eb9-4ae6-a6c9-aab153c69521,Response,Sharks with legs.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+4ec1c115-ca34-4a36-8ee8-449a14aa0a5f,Response,"Smoking crack, for instance.",0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+2a202c71-b06d-4b90-9bd2-dec34b292973,Response,Snorting coke off a clown's boner.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+930a092e-b917-4f68-aa76-8389694a7c62,Response,Some sort of Asian.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+149ce5ea-7924-4ad5-a37c-95efa6697b93,Response,Sports.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+a5e9199a-059d-4cc2-9e5f-0f27202ee0f6,Response,Stuffing a child's face with Fun Dip® until he starts having fun.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+10b4d243-dfc0-4b96-9396-cbb735e51368,Response,Sugar madness.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,
+a95ef9bf-aff1-4854-9434-5ef74ca0affa,Response,The best taquito in the galaxy.,0,0,,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+0b736763-1bb7-48a9-a7e1-9f0281b8513e,Response,The complex geopolitical quagmire that is the Middle East.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+f42e27c9-8c99-4cbe-ae48-b8b06231ff6e,Response,The euphoric rush of strangling a drifter.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+e0238052-939b-4da2-ba2a-f019d8fdf418,Response,The peaceful and nonthreatening rise of China.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+02486bea-98d3-4d5f-82d3-b07b81f2fe5f,Response,The safe word.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+a6f2c514-4d6d-4016-a4e8-5626ca6c688d,Response,The secret formula for ultimate female satisfaction.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+ed25e249-1fa6-4162-9e4a-1f7f94738273,Response,The size of my penis.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+0859fe63-5d5c-4d88-bcad-1b93714d911f,Response,The tiniest shred of evidence that God is real.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+209306aa-60ff-42b5-a0b6-8d52a79b6c7e,Response,Three consecutive seconds of happiness.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+3d533d00-eeb8-451a-aedd-9e7d1e28a5ab,Response,Unquestioning obedience.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+7577eceb-cb17-4f0a-989b-04f57e4c244a,Response,What Jesus would do.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+dc96ad1e-2a15-4b7c-9853-61766c3213da,Response,Whatever a McRib® is made of.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb
+e6d9eb2c-5fb0-4e9c-84ed-a1446bd17027,Response,Whispering all sexy.,0,0,07c54d11-af9c-4e90-880e-fe139cd751a4,4f52e5cf-60cc-49ae-b8f2-010bdc1b0fbb

@@ -15,19 +15,12 @@ const cleanseCandidate = async (
   const dataset = await parseCandidate(rows);
   if (dataset.errors.length > 0) {
     // todo add errors to dataset file
-    console.log(dataset.errors);
+    console.error(dataset.errors);
     return;
   }
-
-  // todo add method to dataset
-  const metadata: SetMetadata = {
-    uuid: dataset.setDetails.uuid,
-    name: dataset.setDetails.name,
-  };
-
   await saveDataset(dataset);
-  // await deleteCandidate(candidate); //!! SKIP FOR TESTING
-  return metadata;
+  await deleteCandidate(candidate);
+  return dataset.metadata;
 };
 
 (async () => {

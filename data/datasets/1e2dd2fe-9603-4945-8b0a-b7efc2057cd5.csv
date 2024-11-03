@@ -1,0 +1,49 @@
+uuid,name,description
+1e2dd2fe-9603-4945-8b0a-b7efc2057cd5,Fantasy Pack,"A pack co-written with make-believers Pat Rothfuss, Neil Gaiman, Sam Sykes, Myke Cole, Jacqueline Carey, Martha Wells, Sherwood Smith, Elizabeth Bear, and Wesley Chu. Released November 19, 2015. Icon: A Hitachi Magic Wand.
+"
+
+uuid,edition,version,description,author,releaseDate,column
+7d669c3a-99f7-4902-b1d2-e218ea455b14,,v1.0,,,0,0
+fad83107-5c12-4b93-8bdc-742aee841aec,,v1.1,,,0,1
+cf43c05b-051b-4fb8-a125-7c4248501ab9,,v1.2,,,0,2
+45c2ed74-dab3-4547-a63d-7c6e88866f93,,v1.3,,,0,3
+
+uuid,suite,text,draw,pick,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+139b697a-0b15-4dc3-9863-ecec77ad3a72,Prompt,"And in the end, the dragon was not evil; he just wanted ______.",0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+5588b5f8-45e8-47de-9388-d44c40f4acef,Prompt,"Critics are raving about HBO's new Game of Thrones spin-off, ""______ of ______.""",0,2,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+33c2679b-baa2-4e55-8177-eac70f8bd469,Prompt,"Having tired of poetry and music, the immortal elves now fill their days with ______.",0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+9b0d0c74-b30d-4e76-a460-ceaf6c2d05ae,Prompt,Legend tells of a princess who has been asleep for a thousand years and can only be awoken by ______.,0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+95e453e0-06df-47ee-8608-7ad390b1581f,Prompt,"Who blasphemes and bubbles at the center of all infinity, whose name no lips dare speak aloud, and who gnaws hungrily in inconceivable, unlighted chambers beyond time?",0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+9cde1c61-c107-49b9-be4b-966e8e42d1e9,Prompt,"Your father was a powerful wizard, Harry. Before he died, he left you something very precious: ___.",0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+28061ea9-32c7-4898-8845-b1e267b4764e,Response,A CGI dragon.,0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+a18656b9-9912-4a8b-aa25-fbf9fbe9a260,Response,A dwarf who won't leave you alone until you compare penis sizes.,0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,
+8a9faf9f-5333-4085-bb11-8c95416fa5fd,Response,A gay sorcerer who turns everyone gay.,0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,
+e8edeefc-9abd-47c0-aa0a-49186a9d5a6b,Response,A ghoul.,0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+1353bed3-ba50-4b21-bb99-fd026a313a66,Response,A gnome who won’t leave you alone until you compare penis sizes.,0,0,,,,45c2ed74-dab3-4547-a63d-7c6e88866f93
+03e41ba7-0768-482f-b2dc-3c9e33f0a1c5,Response,A Hitachi Magic Wand.,0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+9bd39651-bfe3-4989-8997-c72abcbec7ff,Response,A hot swamp full of horny witches.,0,0,,,,45c2ed74-dab3-4547-a63d-7c6e88866f93
+637692c8-d619-4d64-b4ec-81c3d1e4811b,Response,A magical kingdom with dragons and elves and no black people.,0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,,
+906d6d55-044c-4b58-a150-e69c3c6f17b1,Response,"A mysterious, floating orb.",0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+5e614442-83b7-4287-93e9-0d3c4b96b697,Response,A weed elemental who gets everyone high.,0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+da722abc-7582-40cd-9c50-0e8b9b57b40c,Response,Accidentally conjuring a legless horse that can't stop ejaculating.,0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+de45d082-140e-4850-8b3f-1810f52c1abb,Response,Astral-projecting into the Goat Realm.,0,0,,,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+e050a53b-b9e5-424d-937d-51d4e1d6fe34,Response,Bathing naked in a moonlit grove.,0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+73b5ba87-3b44-4467-be54-871891c4c60c,Response,Dinosaurs who wear armor and you ride them and they kick ass.,0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+5a46ddf3-1e81-4a80-b2c7-860e92509eb9,Response,Eternal darkness.,0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+a49306b0-2619-442e-aa25-fbeb8fefd693,Response,Foraging for berries in yonder wood.,0,0,,,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+e37e3165-4e9c-4b60-80f8-43e8fb747c07,Response,"Freaky, pan-dimensional sex with a demigod.",0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+6428cbb9-5f59-48e6-9aed-af53a2c249e7,Response,Gender equality.,0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+a0434b93-8874-4fc1-972b-560e261d80a3,Response,Going on an epic adventure and learning a valuable lesson about friendship.,0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+147e4d07-2835-4200-97c1-11d01c433870,Response,Handcuffing a wizard to a radiator and dousing him with kerosene.,0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+37573f0f-bfda-470c-bd24-3c910a6ad625,Response,Hodor.,0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,
+e4ac1bbc-03f7-49b8-8f46-fe03347c743b,Response,How hot Orlando Bloom was in Lord of the Rings.,0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+7ce79f08-fc5b-4f95-ad86-6a8c328cbbd9,Response,Kneeing a wizard in the balls.,0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+d8e6819e-5892-4d59-b5c9-e9f93263a5fa,Response,Make-believe stories for autistic white men.,0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,,
+37126785-ffc9-4e3f-9d55-130754cc71e6,Response,Reading The Hobbit under the covers while mom and dad scream at each other downstairs.,0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+122624a8-f472-4dd4-82a7-a917129bb43a,Response,Shitting in a wizard's spell book and jizzing in his hat.,0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+92c6e0e1-c269-4ccb-828c-ac4ee3fe0dfd,Response,Shooting a wizard with a gun.,0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+f80445f9-7c8b-4607-a6ba-088bdd077f88,Response,The all-seeing Eye of Sauron.,0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93
+488200e5-98d7-423b-a260-13b5af39a589,Response,"The bond of brotherhood forged in battle, unbreakable and eternal.",0,0,,,,45c2ed74-dab3-4547-a63d-7c6e88866f93
+fa6963dd-51a7-467a-a702-da18f9679f37,Response,"The card Neil Gaiman wrote: ""Three elves at a time.""",0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,
+99a6c6bd-748e-4051-9e4a-e96a66098129,Response,"Ticketmaster, LORD of Tickets, ENFORCER of Surcharges, DENIER of Refunds!",0,0,,,,45c2ed74-dab3-4547-a63d-7c6e88866f93
+716d6081-c968-4482-8fc3-fa94ead722b0,Response,True love's kiss.,0,0,7d669c3a-99f7-4902-b1d2-e218ea455b14,fad83107-5c12-4b93-8bdc-742aee841aec,cf43c05b-051b-4fb8-a125-7c4248501ab9,45c2ed74-dab3-4547-a63d-7c6e88866f93

@@ -1,0 +1,111 @@
+uuid,name,description
+8b3dad0f-ff9d-44f1-bcd5-e5d9e7a3ee70,Cards Against Humanity: Fifth Expansion,"Released September 3, 2014. Discontinued as of November 21, 2016 as a separate expansion. Still available for purchase while supplies last. This expansion has been incorporated into the Blue Box Expansion. Icon: The number ""5"". "
+
+uuid,edition,version,description,author,releaseDate,column
+bdb438cc-a3a9-4da1-9247-19e974ec1879,,v1.0,,,0,0
+816980d7-06b7-4308-8991-3c4d9f688f73,,v1.1,,,0,1
+
+uuid,suite,text,draw,pick,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+54d946c6-dd9b-47d2-97da-34be504806b5,Prompt,And today's soup is Cream of ______.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+4a8d05d3-79c3-4359-bfde-63d106ed4901,Prompt,"Armani suit: $1,000. Dinner for two at that swanky restaurant: $300. The look on her face when you surprise her with ______: priceless.",0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+2c126ddf-995b-4820-a766-a80f452ba25c,Prompt,Do the Dew with our most extreme flavor yet! Get ready for Mountain Dew ______!,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+d01db449-e9aa-4306-ad64-7a722d9b437a,Prompt,Do you lack energy? Does it sometimes feel like the whole world is ______? Zoloft.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+d80acf46-7388-4c26-b941-bdd035e8f91e,Prompt,"Don't forget! Beginning this week, Casual Friday will officially become ""______ Friday.""",0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+44cdb230-8a1f-4855-a435-a992be2db911,Prompt,Get ready for the movie of the summer! One cop plays by the book. The other's only interested in one thing: ______.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+fc4252e4-4fea-40ef-a1ba-ef68e2bf3efb,Prompt,Having the worst day EVER. #______,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+bd3fb040-7b05-4e5e-b9ff-903d4fde50d5,Prompt,"Heed my voice, mortals! I am the god of ______ , and I will not tolerate ______!",0,2,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+c0a16b2e-6925-4bdf-8cd4-2bf891d8c267,Prompt,"Help me doctor, I've got ______ in my butt!",0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+4e237a78-98fe-43d4-a84a-3afb31d4c5ff,Prompt,"Here at the Academy for Gifted Children, we allow students to explore ______ at their own pace.",0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+e568f740-994e-4aa3-b92b-b18db3d580f4,Prompt,"Hi MTV! My name is Kendra, I live in Malibu, I'm into ______, and I love to have a good time.",0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+45e3e110-29b2-44be-ab99-eec24e852dd6,Prompt,"Hi, this is Jim from accounting. We noticed a $1,200 charge labeled ""______."" Can you explain?",0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+4ad40e30-da37-4520-99bf-a252f02f7c1b,Prompt,"I don't mean to brag, but they call me the Micheal Jordan of ______.",0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+e0e29992-6b9e-411c-b6cb-bed1274deaf9,Prompt,"In his farewell address, George Washington famously warned Americans about the dangers of ______.",0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+68ad76ad-17e0-4b78-b3dd-c79cb08aa34d,Prompt,"In his new action comedy, Jackie Chan must fend off ninjas while also dealing with ______.",0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+6420ead4-faaf-4d0a-8c23-9f05446781a4,Prompt,Life's pretty tough in the fast lane. That's why I never leave the house without ______.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+a8b1ab0c-c506-44a7-b128-d18011e9a6d2,Prompt,"Now in bookstores: ""The Audacity of ______"" by Barack Obama.",0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+70bd7a90-ffd6-4993-ba9f-27e5cda71951,Prompt,Patient presents with ______ . Likely a result of ______.,0,2,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+fb0c8c33-fc23-4026-b0c6-2cf5b20489b3,Prompt,"Well if ______ is good enough for ______, it's good enough for me.",0,2,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+942f12be-f94d-4b51-9cc1-a6a2d585ed0e,Prompt,"Well what do you have to say for yourself, Casey? This is the third time you've been sent to the principal's office for ______.",0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+7e1c27a0-05e7-49ba-85cb-bedddea6c8e8,Prompt,What killed my boner?,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+72c5e14c-801a-4653-aba7-f9c65d9e5a4c,Prompt,What's making things awkward in the sauna?,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+35bbdfd7-25f9-4ec3-9b9b-6b8f1df231fc,Prompt,WHOOO! God damn I love ______!,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+68153611-2564-4b3b-87d9-fd5b4a388c04,Prompt,Why am I broke?,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+ab50c677-8741-478b-8142-2dcb9e89f55b,Prompt,Yo' mama's so fat she ______!,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+c89df93b-b651-4b83-b116-2578a9d7627a,Response,40 acres and a mule.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+2ca6a87d-16e1-47de-9456-14d412d3a478,Response,A chimpanzee in sunglasses fucking your wife.,0,0,,816980d7-06b7-4308-8991-3c4d9f688f73
+975a47ce-bc10-4a98-96e1-97916a93d46c,Response,A crazy little thing called love.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+b50aa509-c8fc-4543-a0e4-4ce31f50cf47,Response,A disappointing salad.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+b8241a6f-d82a-4170-b7d1-a73d11b935dc,Response,A face full of horse cum.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+ff88470c-7f85-48f1-a42e-04367aca54c0,Response,A giant powdery manbaby.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+c71c9dd0-1f14-42ba-aa11-74272409b8f8,Response,A mouthful of potato salad.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+c1c14e26-d825-469a-97a8-d00bf469c9cf,Response,"A one-way ticket to Gary, Indiana.",0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+404c86cd-95c4-4dc1-9f2d-012308a3eb68,Response,A powered exoskeleton.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,
+3cdaadbd-ca72-4fbb-b371-dc4987609b6f,Response,A reason not to commit suicide.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+b9cea9fd-23de-44bf-91fc-c6b6403c121b,Response,A team of lawyers.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+4aab80c9-f057-4d58-8796-21df3c285233,Response,A whole new kind of porn.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+8ff2c472-b155-496e-89b9-d1059156e3ae,Response,"A zero-risk way to make $2,000 from home.",0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+d6e24576-dcb6-4a2b-b0c7-3820b8f97d43,Response,AIDS monkeys.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+0ae56169-d58e-48b7-88ff-891c2e4b7532,Response,All these decorative pillows.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+c0162cfe-3ee9-45f5-a6fe-effdf8664dd6,Response,An inability to form meaningful relationships.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,
+734ea825-b132-4951-b25d-061d35fbca3a,Response,An unforgettable quinceañera.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+7c2671c6-0922-43f4-a06b-2d83d4ef46ed,Response,An uninterrupted history of imperialism and exploitation.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+9a0285c3-c72d-4c35-bac5-0d21826dd848,Response,Anal fissures like you wouldn't believe.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+a3435464-8ac5-4e1a-a613-fc51fc82ccc6,Response,Ancient Athenian boy-fucking.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+d2a315fc-07ee-4be9-a325-4dc8ec816344,Response,Backwards knees.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+1dbba023-ec1c-4fdc-ba4b-bf2050e3ba98,Response,Being nine years old.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+09a830ae-06ef-4979-851c-b9542edf7ce1,Response,Being paralyzed from the neck down.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+0b2eae11-2944-4711-bca9-3e83aa797a53,Response,Being worshipped as the one true God.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+ca98b8ba-6d22-479d-8e05-c3a218e62b36,Response,Blackface.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+eea8e3dc-c41e-4051-a29e-fc9c2d11c102,Response,Blowjobs for everyone.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+e4afa90b-3a44-4d2c-9c1b-7520a0ddc876,Response,Boring Vaginal sex.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+394ec48e-a13b-4802-b87e-a69a97b7765a,Response,Butt stuff.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+3683ed94-7349-402c-98f4-1148be2b3eb1,Response,Changing a person's mind with logic and facts.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+92f47cd8-f20c-4e05-8aa1-f50fb4cbca23,Response,Child support payments.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+584b0b99-ed86-4a25-9eeb-f5eec2e01597,Response,Cutting off a flamingo's legs with garden shears.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+e219caa7-9df7-4597-b66f-1eacf5ed404c,Response,Daddy's credit card.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+07e6367f-ed30-4f84-a743-124f1ef4030f,Response,Deez nuts.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+8928a851-f214-418e-a4ce-6a514761f2b8,Response,Denzel.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,
+de1e47fc-0da4-48e4-bc14-3e30117a871a,Response,Doing the right stuff to her nipples.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+e1b98515-c3b5-4794-a3d1-191c063038e2,Response,Ejaculating live bees and the bees are angry.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+7b69f81d-bd97-4072-b6c4-ed1fe6e051bf,Response,Ennui.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+f1cacf24-3ded-4eaf-886b-365d8e57ec89,Response,Figuring out how to have sex with a dolphin.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+33e50bcb-71fc-46f6-bd0f-7957e151cced,Response,"Free ice cream, yo.",0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+6e9c4012-737e-4829-8433-f76d208a4c04,Response,Genghis Khan's DNA.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+85db5b3c-d07e-4830-9dd4-b2fd9976beec,Response,Getting caught by the police and going to jail.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+1eea42c3-6584-44c6-a69f-ed05a69f0f03,Response,Getting drive-by shot.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+2eca614a-5a85-43a7-adc5-53f75cd6393d,Response,Getting eaten alive by Guy Fieri.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+c6eebf1a-8c06-4430-8091-c8576aacf98d,Response,Giant sperm from outer space.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+46ab7d30-5f0b-4eff-8744-2c88f08aa99e,Response,Going to a high school reunion on ketamine.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+b8446068-00dd-491e-a65e-e3a85ff69ff4,Response,Having been dead for a while.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+f30450ac-e469-4b29-984f-9280c762aa5a,Response,Mom's new boyfriend.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+11885d4c-44a5-455a-8c45-103423904c6f,Response,My boyfriend's stupid penis.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+64b46f62-9a00-41cd-85ed-a6e2d435654b,Response,My dead son's baseball glove.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+da4e1e1f-49fb-4743-9884-ef3aafdea120,Response,My first period.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+5d6ec7ef-f975-44b4-8eff-eea01b5fef6f,Response,Not believing in giraffes.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+481a69c7-3842-4ace-9e5b-f223d1c6bbc1,Response,Oil!,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+18cfa32d-d459-44ab-8e0e-ff9333b50114,Response,Out-of-this-world bazongas.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+5b475e3a-3b97-453f-878b-db5f2a6c5975,Response,P.F. Chang himself.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+f1499c1b-77ea-47a7-9c49-61c36455196e,Response,Russian super-tuberculosis.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+12743641-6afd-4aef-b4e5-f14af7a0776d,Response,Seeing my village burned and my family slaughtered before my eyes.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+f5d1665e-1888-4445-b65e-987debc225db,Response,Seeing things from Hitler's perspective.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+511bf8a7-7156-4774-9c66-382feaf0f0b5,Response,"September 11th, 2001.",0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+a84e13a2-684b-4b28-bc0b-987fb08a0a58,Response,Slowly easing down onto a cucumber.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+0f5fea64-fc47-4938-9d1d-11f7136163d8,Response,Social justice warriors with flamethrowers of compassion.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+a62f1ea0-faed-4205-8201-988f7f738f28,Response,Some shit-hot guitar licks.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+6d7d7e99-a791-46f8-b18a-af48dfbebad1,Response,Stupid.,0,0,,816980d7-06b7-4308-8991-3c4d9f688f73
+de3bba73-3a45-492f-9b2d-c5eb4b9c7f27,Response,The Abercrombie & Fitch lifestyle.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+aee4a6fe-39ea-4837-aaab-f2dd55c545a7,Response,The basic suffering that pervades all of existence.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+1a89f1d2-0158-4316-9952-ab79a2aec0fe,Response,The black half of Barack Obama.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+da83d202-f32b-4aec-9696-74bb94c3ff6a,Response,The eight gay warlocks who dictate the rules of fashion.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+1344a6d4-ef0f-4d85-bbaf-fc19efcd7645,Response,The ghost of Marlon Brando.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+efa1eded-a711-44df-9ddd-d325e9af41a6,Response,The inability to form meaningful relationships.,0,0,,816980d7-06b7-4308-8991-3c4d9f688f73
+180f22a1-c32d-4443-8ade-bedb8ec9a2c6,Response,The passage of time.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+602f19db-2cb5-49ae-b9a9-2a3be37677fe,Response,"The swim team, all at once.",0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+8d0aa59d-5cfb-4eaa-85e7-f7357eb84166,Response,The tiger that killed my father.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+46db235c-ca02-4db4-80e2-43cc5960e2fc,Response,The unbelievable world of mushrooms.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+20022b94-a31b-4b01-accc-2759db900dc0,Response,The white half of Barack Obama.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+de4158db-aef2-4d2d-996d-280d8ed1644c,Response,Too much cocaine.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+29c38fea-fc97-4506-acb4-7ac925e6b6d1,Response,Unrelenting genital punishment.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+14ce11a6-e64c-4bb3-96c7-328d901d3029,Response,Vegetarian options.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+c722247f-5f50-45fd-89c8-52a681f7ed25,Response,Wearing glasses and sounding smart.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73
+fbcbcaa7-fe36-4eff-8840-5d8bd4b0501d,Response,Western standards of beauty.,0,0,bdb438cc-a3a9-4da1-9247-19e974ec1879,816980d7-06b7-4308-8991-3c4d9f688f73

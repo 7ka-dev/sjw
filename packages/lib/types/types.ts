@@ -8,6 +8,8 @@ export const gameNameMap: Record<GameName, string> = {
 export type SetMetadata = {
   uuid: string;
   name: string;
+  prompts: number;
+  responses: number;
 };
 
 export type Metadata = Partial<Record<GameName, SetMetadata[]>>;
@@ -52,8 +54,10 @@ export type SetDataset = CsvTemplate & {
   errors: ParsingError[];
   currentLine: number;
   singleVersion: boolean;
+  
   hasErrors: () => boolean;
   appendError: (error: ParsingError) => void;
+  metadata: SetMetadata;
 };
 
 export type ParsingError = CsvTemplate & {

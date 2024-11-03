@@ -1,9 +1,5 @@
 import { Metadata, SetMetadata } from "@sjw/sjw-lib/types/types.js";
-import {
-  saveDataset,
-  getDatasetList,
-  readDataset,
-} from "@sjw/sjw-lib/utils/fs/datasets.ts";
+import { getDatasetList, readDataset } from "@sjw/sjw-lib/utils/fs/datasets.ts";
 import { readMetadata } from "@sjw/sjw-lib/utils/fs/metadata.ts";
 import { parseCahDataset } from "@sjw/sjw-lib/parser/cah/datasets.ts";
 import { seedDataset } from "@sjw/sjw-lib/db/seed.ts";
@@ -22,12 +18,7 @@ const importDataset = async (fileName: string): Promise<SetMetadata> => {
     dataset
   );
 
-  const metadata: SetMetadata = {
-    uuid: savedDataset.setDetails.uuid,
-    name: savedDataset.setDetails.name,
-  };
-
-  return metadata;
+  return savedDataset.metadata;
 };
 
 (async () => {

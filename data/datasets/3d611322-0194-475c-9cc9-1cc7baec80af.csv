@@ -1,0 +1,81 @@
+uuid,name,description
+3d611322-0194-475c-9cc9-1cc7baec80af,Blurbs Against Buffalo,"https://www.georgeandcompany.co/products/blurbs-against-buffalo-card-game
+A Buffalo, NY themed expansion.
+Funded successfully on April 9, 2015 raising $3,000 with 169 backers. Released May 31, 2015. Sold in stores in the Buffalo, NY area."
+
+uuid,edition,version,description,author,releaseDate,column
+0a016403-94aa-4fd7-b7fd-0548341c3c34,,v1.0,,,0,0
+
+uuid,suite,text,draw,pick,0a016403-94aa-4fd7-b7fd-0548341c3c34
+7d6ee598-13bb-4a4e-a657-cf8f9e7e18bf,Prompt,"_______, a failure of the S.U.N.Y. education system.",0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+08e5e97e-ec03-49a5-9d50-d61803631c53,Prompt,After attending Food Truck Tuesdy at Larkinville I frequently enjoy ______.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+f08ca410-dfab-405c-8457-e45de36f3b14,Prompt,"After taking on the Buffalo School Board, Carl Paladino takes on _______.",0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+26606a3a-31e2-4367-ac85-2a6a7871dfcf,Prompt,"After the Ice Boom was removed, ______ was floating down the Niagara River.",0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+d76b7438-6f4f-4862-ae36-b05388ab78f4,Prompt,An abandoned grain elevator filled with ______ would be a good time.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+33676305-af92-4698-b934-20495483727c,Prompt,"An unexpected slowdown in traffic on the 33, obviously caused by ______.",0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+3c5f5845-fc41-4456-b31a-4270484a4480,Prompt,"Headlining at Canalside this summer, my favorite band: ______.",0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+8ea01068-99a0-4ede-9f21-5f274eb0a767,Prompt,I am confident that ______ would finally make the Sabres good.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+979cfcc1-46e4-4e6c-b690-2330b8e5bb3c,Prompt,I got blackout drunk on Chippewa and hooked up with _______.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+0a31d989-3780-407f-9050-bb1a332d0300,Prompt,I would personally deliver a flaming bag of ______ to Bon Jovi's doorstep.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+db9a1348-1264-4720-a14f-53f7c57f2ce0,Prompt,"I would rather ______ than see Tom Brady win anything. When he does win, I think about ______.",0,2,0a016403-94aa-4fd7-b7fd-0548341c3c34
+1543851b-0da9-4776-acc4-475ed82699b6,Prompt,"If I opened my own brewery in Buffalo, I would call it ______.",0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+45b3fe58-9ff6-4ab0-b78c-bbcd45b55255,Prompt,"Most of the new activities downtown seem cool, but I absolutely refuse to try ______!",0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+91f3d2a3-2095-4cc7-829a-c383b41d130e,Prompt,Rex Ryan's tricked out Buffalo Bills pickup truck is probably filled with ______ and ______.,0,2,0a016403-94aa-4fd7-b7fd-0548341c3c34
+acedd6dd-692b-4e8f-8278-5e5b3aa05e68,Prompt,So that's why I called my night with Janet Snyder: ______.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+5d080796-c65f-44b6-8974-df46718f8570,Prompt,Terry Pegula usually imagines ______ to remain calm during his awkward press conferences.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+f5e4f0ba-fcbd-4334-a80b-8f8e80c94abf,Prompt,There is no way I'm going near the Perry Projects. I might run into ______.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+f0414743-e73f-41e3-8975-c04402c6589c,Prompt,When you put a Ted's Hotdog in a Lloyd Taco you get: ______.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+e1be7f3c-bb3f-4f0b-9c75-1d1638c4aadb,Response,10 feet of snow in 2 days.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+56ebe7fd-c7db-4ec3-82cf-7dddbd502272,Response,"A blow job from Shark Girl, with teeth.",0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+811c940b-c774-44f2-8428-1a82018cef33,Response,A bottle of Frank's® RedHot® Sauce emptied into the urethra.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+8d8ed392-f721-4e4d-bc23-00d6eed07e40,Response,A dirty diaper filled with Lloyd taco meat.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+2f0c566d-e1fe-4b71-9bfb-3f7d82e58dbe,Response,"A local organized band of pirates, hijacking the Ms. Buffalo.",0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+758b18e9-3fa8-455a-bf49-75b6ce39c32d,Response,A mustache ride from the ghost of Teddy Roosevelt.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+0e40528d-ce5a-4c45-9d45-50bdd9b73be5,Response,"A new TV dating show called ""Win a Date with Kim Pegula"".",0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+e94e9b1f-6eb9-41c2-9180-34e792d0ed3c,Response,A Northtowns vs. Southtowns Civil War.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+e7bf2f61-6c6a-4223-a236-f09d5befe6b9,Response,A physical altercation over a Buffalo Chicken Finger Sub.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+cae3cd27-1ca7-4a43-a3f3-11fba9473b7b,Response,A Roswell treatment gone very wrong.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+78555343-427b-435c-ac7f-246d674ac463,Response,A seriious addiction to Andersons ice cream.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+cb220282-dfda-4da7-a7a6-ef0a977913b4,Response,A sub-par Beef on Weck.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+654ecac7-6871-4489-833e-a04ea6db0a44,Response,A wall of snow that can be seen from miles away.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+292716b7-c61a-4b4e-b917-f11f589edb6d,Response,An ice bike rental at Canalside.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+f48fae6c-6c38-4174-a252-04a00c45fdea,Response,An overpopulation of rabid middle-aged Canadian women wreaking havoc on the Galleria Mall.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+e7119535-f342-407c-af7d-db03f6814607,Response,Ani DiFranco's hairy armpits.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+09edd779-724b-4e38-84a2-375f1ef39cb7,Response,Backstage of the theatre at UB.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+7fc12fbc-c774-4ae4-898d-832f24df24ae,Response,Biting into a Ted's Hotdog and finding veins.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+27ad847e-2028-4ea8-a3ab-8a69c0b18570,Response,Blowing a line of coke off of Rick James' tombstone.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+6237db6a-ea54-4dbf-855e-5019c3e337af,Response,Boy I Love Losing Super Bowls.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+a7fc0fd4-3371-4974-9cb1-fe48ad6f3682,Response,Bungee jumping from the Skyway.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+2715e552-66c8-4d32-aed3-278102ffe781,Response,"Canisius College Football, undefeated since 2002.",0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+001492ec-b1c2-4ca1-8c3b-a0fb9738295b,Response,Checking in to a comfortable room at the Buffalo Psych Center.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+04d73d0e-c6d1-444c-a425-50f05d8e1f89,Response,Cheektavegas.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+d8bd9bbc-9860-47c7-a487-4d705ad6c362,Response,"Cheerio scented air freshener, brought to you by General Mills.",0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+99cc38bd-2f83-4fbf-86e0-b1aa1c2eb3ba,Response,Cleaning the floor of the bathroom at The Pink with your tongue.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+fa6e46c9-6ab2-4e90-940e-af03933f1fc4,Response,Drinking Brett Hull's blood out of Lord Stanley's Cup.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+49e143eb-363f-4e3f-bc28-d2f54ba0c2c7,Response,Every new restaurant's obsession with Poutine.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+39e3be35-f422-4c18-9b08-b10d0f68141d,Response,Ghost pepper chicken wing shits.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+24fa9e1f-6c45-466d-95bd-2fae5fb02dba,Response,Going over Niagara Falls in a barrel.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+2b6e6b0d-3917-4a9d-b314-262317b2dfc9,Response,Loganberry flavored Jell-o wrestling.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+a8e5431a-0ae7-4c5f-9c5a-1f1ebdd0abdd,Response,Making out with the homeless guy who's pissing on the subway tracks.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+b0e55b1e-c398-458c-8d95-a8522758e97a,Response,Mayor Byron Brown's snarky attitude.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+48948c45-45c2-49e6-b392-43fbd34baf90,Response,Mickey Rats' classy vibe.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+409a1d36-765d-4547-b6de-bcc9f221d690,Response,Motorboating Billy Fucillo's man-boobs. It's gonn be HUGE!,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+26b19151-2bc1-4356-bd70-6d18f673be55,Response,Pegulaville!,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+c774fda7-41c0-437a-b9a2-0f530e8e2516,Response,Rick Jeanneret slowly licking the side of your face.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+70ddca19-f936-401f-8e05-0ec3897e125f,Response,Sex in public at the Bufalo Zoo.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+33aec30e-9c9a-41b4-99c6-91a6bbcbc4c4,Response,Streaking down Elmwood.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+086f45cd-493a-41c7-9690-d69940b4ffc5,Response,Taro Tsujimoto.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+594a41d4-32f1-4471-822a-539cd9a2e68d,Response,The absurd amount of dog shit that appears on the sidewalk immediately after all the snow melts.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+74029c9d-e2af-41f4-87d4-7586781f5cec,Response,The Buffalo Billion.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+3b5e37c0-9ad5-4bca-9482-55e3fd68168c,Response,The feeling of panic that you get about 10 minutes after eating Mighty Taco and there is no bathroom in sight.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+c4434a45-d7d7-48ba-9d28-b5b655c952cc,Response,The Goo Goo Dolls.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+443c6550-cd89-4b29-a223-2aaaf0c8b072,Response,The Labatt Pond Hockey Tournament.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+a9ca2ace-fe6a-47f4-a58d-aa1d3b985900,Response,The Labatty Splatties.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+9ab34138-c4cb-4176-94bf-a6e250912751,Response,The Lackawanna 6.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+4c5d83bb-6b08-4930-a376-f3b277d6cb36,Response,The old Club 31.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+d2137c69-b8a4-491d-b9aa-2161074f4128,Response,The petrified testicles of Frank Lloyd Wright.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+d78b36e3-d5fc-481a-990c-1f693689aa72,Response,The unwashed portion of the Allentown hipster community.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+420b60cd-63b1-474f-9292-f306ec89760f,Response,Tim Hortons coffee and a bag of dicks.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+deeea99e-ed56-44a5-ba9c-18f53ec36686,Response,Toothless people on Seneca St.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+45b97cfb-1d3e-4fd6-8aae-086b906aee0a,Response,Topless spring skiing at Holiday Valley.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34
+8a63101b-98c8-4b9b-85f1-030af9d78e00,Response,West Side gentrification.,0,0,0a016403-94aa-4fd7-b7fd-0548341c3c34

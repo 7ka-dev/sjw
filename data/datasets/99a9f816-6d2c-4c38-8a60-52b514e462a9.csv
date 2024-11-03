@@ -1,0 +1,127 @@
+uuid,name,description
+99a9f816-6d2c-4c38-8a60-52b514e462a9,Bad Hombres Against Fake News Pack 1,https://www.amazon.com/Hombres-Against-Unofficial-Expansion-Humanity/dp/B06XDVMN5T/
+
+uuid,edition,version,description,author,releaseDate,column
+a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6,,v1.0,,,0,0
+
+uuid,suite,text,draw,pick,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+81c586ac-87f9-4245-b998-d7397390d7dc,Prompt,A Bad Hombres' celebration always include ______.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+eb865b53-c786-4b90-a1e2-29220b8ddb55,Prompt,A day in the life of a Bad Hombre has plenty of _______.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+5432883a-e933-48ee-9384-49c7d2737e01,Prompt,A good solution for the Bad Hombres dilemma would be _______.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+629c1c9e-fa3f-49ad-ac65-356a35ccf7b5,Prompt,A trip to Mexico can make you so happy because of ______.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+af269e91-8e3e-4d99-8fbc-88106c97383c,Prompt,Bad Hombres actually enjoy _______.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+641053d2-66b1-465a-9fe0-90107f7f3eb9,Prompt,Bad Hombres' biggest weakness is _______.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+bc9c931d-244b-463c-b7e2-5d552544736e,Prompt,How will Mexico pay for the wall?,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+08e29587-4fce-43ec-810c-66e5d7acd38a,Prompt,Mexico and U.S. will reunite once they get rid of _______.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+c281501e-cf2c-449f-a62b-cfdec6464e52,Prompt,Telemundo will make a fortune with a reality show about _______.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+49a2adfc-76cd-461b-a5cd-a5603194b52b,Prompt,The best part of losing my virginity in Mexico was _______.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+34db80b3-7e7b-4a72-9d36-49f8394322a9,Prompt,The real hobby of El Chapo is _______.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+739bbef4-0507-454a-b0d8-19e55c668698,Prompt,The real reason that Bad Hombres should be kicked out of the U.S. is ________.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+cc6ef2f9-68b3-47ce-8163-78d23e831648,Prompt,Trump's Spanish pronunciation provokes _______.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+20b0f945-568f-429e-80cd-a9564bca4aa6,Prompt,What are Bad Hombres full of?,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+421fca90-d02c-4faa-9834-569a9be7d55c,Prompt,What are Bad Hombres proud of?,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+a24e17bf-67d4-49b6-9d52-67fdf56df497,Prompt,What do Bad Hombres' real housewives like?,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+521e9912-e42c-4bbd-a89e-15d6e8f1394e,Prompt,What gets Bad Hombres horny?,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+4ec6190f-71b9-4e6d-be01-4f8b44efcf9c,Prompt,What is a Bad Hombre afraid of?,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+f656fe94-c09e-4838-9feb-31883268f6e1,Prompt,What is always in the mind of a Bad Hombre?,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+c918e7be-1765-4f03-bd5b-3366358c9b68,Prompt,What is the biggest problem with Bad Hombres crossing the border?,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+ded82b7f-a6b2-4ece-b2df-2ede64582bde,Prompt,What is the reason to protect the Bad Hombres?,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+669e3570-6b8f-46d6-9787-b19200fc2c1e,Prompt,What is Trump's worst nightmare?,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+3d120392-c49b-4311-a7a3-ffba48e6b6ce,Prompt,What makes Bad Hombres laugh hysterically?,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+a3054861-adf1-4581-9821-edbb4987e33d,Prompt,What would not be fake news?,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+fee37f69-0386-4c38-9392-37ff4c850e8e,Prompt,What's a Bad Hombre best friend?,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+2c3a7c8c-282d-476f-b821-d31626ee4656,Prompt,What's trending among Bad Hombres?,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+617357eb-76b7-4468-9b21-962196333c54,Prompt,Why am I loving my Bad Hombre?,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+761e6ca4-69a6-43b8-8c49-c025cedb2660,Prompt,Why do some Americans like the wall?,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+4846106c-a73c-44af-b67c-d81ebae28453,Prompt,Why hasn't my friend crossed the border?,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+2ae218a6-7e11-4ad5-83a6-989409ba3813,Prompt,Why is Donald Trump obsessed with the wall?,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+55a22b8e-ef38-4893-b076-4337482f50e7,Response,"$20,000 trip from Honduras to Texas hiding in the back of the troka.",0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+5588927e-d6bf-47dc-a930-ed76eff463b1,Response,5 de Mayo celebrations.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+29d259f8-1b88-4150-9be3-5edc95234e3b,Response,A drug-filled piñata.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+d6be45f1-1b3d-4ac8-8885-7098fd3dac1d,Response,A fully equipped tunnel under the border.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+d0afe7d0-730f-4110-b9f0-fc4ed80bfad3,Response,A new movie by Alejandro Gonzalez Iñarritu about the Bad Hombres.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+53a391d8-f7ce-4b29-ba67-6de315f370bd,Response,A new shining Trump tower in Mexico.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+ca1bb61c-804f-4d90-9268-edb868ae6015,Response,A pillow fight between Bad Hombres.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+d96dbd39-8f7d-4d50-b392-0534cc015c9b,Response,A really bad Mexican soup opera.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+3d19dba0-e3ab-42d9-bc56-0df96ffbd6ff,Response,All kind of children are indeed left behind.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+983d7aee-095d-4bbf-abf5-a7287300b868,Response,An economy without Mexican labor.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+e954cb05-1e5b-4db3-b44a-0c3ebc0926d8,Response,Bad Hombres infiltrating the border patrol.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+29a76bc9-7164-4ce3-81a7-e1f2d9e1b643,Response,Bad Hombres offensive comments.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+115a0724-627c-40e1-80fa-baa3cf6fe5ce,Response,Bad Hombres willing to work 80 hours a week.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+3d5abacf-8422-4903-a211-c79a5e3ecb13,Response,Baked beans.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+351aa3e7-bec9-4520-a6ff-4606d845c613,Response,Beefy empanadas for 25 cents.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+e8c8f092-c3aa-4a82-a865-c14bf943fa64,Response,Being afraid of the worm at the bottom of the tequila bottle.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+c67afae2-4182-4389-be85-1c350eca4972,Response,Being deported to Mexico after living 20 years in the U.S.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+135fa15a-3db7-4cbc-a296-033c9c475031,Response,Blaming the 1% for everything.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+05089826-5243-40ab-8a31-311df0920041,Response,Bloody Bull Fights with lots of celebration and tequila.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+d48d4207-059b-4d42-9bf2-485494c6aab3,Response,Border Tax.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+db1c20df-eb03-4c1d-a2f0-529671506107,Response,Building a door in the wall.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+4c2814f1-b614-4b29-87f0-f6342fce3b85,Response,Building bridges rather than walls.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+ccfc24c5-1e5e-4bcb-8a9b-645e176c4093,Response,Burrito masturbation technique.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+c1af87b6-e2dc-4de3-9faa-7cecec5cf482,Response,Cabrón de mierda.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+7b33d7df-45fa-4bd8-8065-d105e25a80f6,Response,Cheap Mexican porn.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+6d1df140-a0b3-43f9-b2e4-28d95797d472,Response,Cheap tequila.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+21feabe2-60d2-4ed8-8607-c8689e9d2b64,Response,Cheap Viagra® hecha en casa.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+2cf06773-06ed-46ec-aa22-66eedb5bd9fc,Response,Confronting deportation fears.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+af848bb7-16de-4d63-93bf-63a0119bf8f1,Response,Confusing Taco Bell® with good Mexican food.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+a5270cbd-44b6-44f0-a185-5e07db144d0b,Response,Confusing Tijuana with North Korea.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+dda15ace-fe0b-4319-abd2-f6a9bcc9394b,Response,Coyote services inflation.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+f3d114e2-90dc-43ef-9615-f39093805365,Response,"Criminals, drug dealers, rapists, etc.",0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+a9660be3-3215-46d4-badb-79fbbc21d1d5,Response,Declaring Spanish as second official language of the U.S.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+58bc7df7-ff0d-4bdb-98c7-85b0313f0b78,Response,Discrimination.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+1e1f72b2-d84d-4a82-bf06-100e355a3eeb,Response,Dreamers hiding from deportation.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+84b682ce-3cd4-4ff9-8c8a-27f4d3dd9e64,Response,Eating tamales in Thanksgiving.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+845a7e90-80af-4510-aeb1-bb877faa02b8,Response,El Chapo unleashing a Bad Hombre revolution from jail.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+1d6b654a-57ba-4e62-b3c3-19754fba5de3,Response,El Rio Grande.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+26689c5b-5329-4e5b-aa7a-2d6321e8d613,Response,Fake Green Cards being sold at the border.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+9d90081a-8829-496c-9b8d-7f33589d3e93,Response,Fear of being killed.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+7724dbae-b28d-4a1e-b821-b5e8e32bbef4,Response,Food Stamps.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+b7013cdc-ff23-473c-926e-1ac6d3533b00,Response,Fox News.®,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+7857b5ab-f52f-47d2-bb61-e44dd3c143c1,Response,Fucking south of the border.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+7114c7ea-2931-4d0b-a272-91ed9599a2bd,Response,Getting laid with a sweaty Bad Hombre.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+999b1e52-3566-4b08-be18-70adb83d3437,Response,Getting paid below minimum wage.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+a734b9ab-f41f-4a26-a523-fead3db8956c,Response,Having Cementos Mexicanos build the wall.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+60018a42-5c2c-40f2-9091-ce275aec92d2,Response,"Having sex with Mildred, Arnold Schwarzenegger's nanny and girlfriend.",0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+4d8fb0e5-d78d-4f7b-b692-99ce461076d1,Response,Having to send dinero to Chiapas.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+6ae468eb-c6a9-476a-9740-9ec4dccd5e10,Response,Hijo de la chingada.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+acd6a24e-d41e-4f68-ac27-87dcab372b2e,Response,Huge political inexperience.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+d7f110b1-c5df-49ec-b9cf-c5c989f48440,Response,Human rights abuses at the border.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+f23505ef-835e-4988-85b3-5eb0a936a8d1,Response,Insulting Bad Hombres for fun.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+40ee2701-088e-4b73-ba7c-d224dae051a5,Response,It's all about the money.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+2dbccf51-8807-41f4-9d42-7cbcd68411f6,Response,Ivanka Trump's maids.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+e49925d8-67fd-4ac1-9bdc-e8eaa97b9fa1,Response,Jennifer Lopez.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+9c36152e-7168-4631-beba-247a66aa1093,Response,Kidnappings in Mexico.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+58e378a6-91e5-44da-869e-3c48add1a8a1,Response,Los Tres Amigos.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+422087e0-2161-4d43-bbd7-e9849d3f30a0,Response,Making Mexico great again since the Aztecs and Mayans.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+fe36ae46-0e94-45b3-96c0-2e73eafb22ec,Response,Mango enchilado.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+ae629285-54fa-4a94-8bba-8f5a85d1408b,Response,Meros tacos.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+e72c805b-77c6-4ecd-a37b-a01c4fd4078e,Response,Mexican revolution in the U.S.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+cccf9b91-fd46-4492-89b4-05448e40b30a,Response,Mexicans taking all the good jobs.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+043034c9-0e5a-4487-8530-3ba0fcb60932,Response,Molesting a Mexican boy.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+8445f68a-6668-4caf-bad7-8820831d59bb,Response,Multiple hotel sex in Acapulco.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+ef108c55-3142-4fe1-93ae-24f48c06b1c9,Response,Naked Lucha Libre.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+73e086ed-6ba0-46c5-8677-b6ab5cbd9d67,Response,Nationalist officials at the border who voted for Trump.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+b6cf0b44-3f08-46c0-900e-0c72e9029d7f,Response,"No ""law and order"" building the wall.",0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+eba2e728-53ad-4465-8d2d-cbaf5521e256,Response,Not all Bad Hombres are created equal.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+f34fd3f5-2196-42ff-b148-12965bd7ec8e,Response,Not having enough Bad Hombres in the U.S. to build the wall.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+97420b5f-b4bd-4e09-909a-3dd52aa39952,Response,Pitbull as president of the new Bad Hombres political party.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+784df31c-af4f-4523-9213-4faf5959d825,Response,Potentially having free college tuition for all immigrants.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+9cb31e74-6976-4483-9bba-0f6e59f47d0d,Response,Pretending to give immigrants equal opportunity.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+4a71af12-987e-4f54-bc9d-c658ac712cec,Response,Proud to be Mexican.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+dec9fb85-6df6-403b-96bc-9355e01d6659,Response,Putting a condom in a burrito to practice.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+9a27b9d3-def5-4be1-a7bc-8b26b7038a10,Response,Real News.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+c1f7ec3d-0fa8-4642-a185-645929473fb5,Response,Really lost in translation.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+08caffb1-864c-43bd-aff2-3adfbe48f0a4,Response,Reusing condoms.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+1d298c09-c35a-4e33-b19f-d821d2af1d6f,Response,"Saying ""No Mas"" before even starting.",0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+dbfcc6fb-6799-4fa0-ba6c-eac0942cea1e,Response,Spanglish.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+80c8f858-b77e-47fe-88b1-5b68d9b95d21,Response,Spending $20 billion on the stupid wall.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+fea2e610-115f-4413-abc9-7083b2766c83,Response,Such a nasty group of people.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+1f229cf2-ade7-4ad8-842a-a534cf38ff25,Response,Thinking tequila is an expensive drink.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+d1661276-4b3d-4c3e-b41b-9b77035043bb,Response,Three days without eating in the Arizona desert to reach the American Dream.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+7d219bbd-75b5-4e6c-b672-5096e4819794,Response,Too many Bad Hombres with working visas.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+8269a242-0b72-4189-a4ea-459dc40674ba,Response,Translating the U.S. Constitution to Spanish.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+1c17db01-8f0e-4975-91aa-8016b2af9e3d,Response,Treating Good Hombres like Bad Hombres.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+3d0bcc4f-6f22-4fd1-986d-4396eef743f0,Response,Trump neglecting the U.S. inner cities where Bad Hombres live.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+78b526d6-0057-42d1-92a4-62a9dc938b4c,Response,Trump's deportation machine terror tactics.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+7aa20ac4-6cab-4272-8530-8526d487f295,Response,Unsafe sex.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6
+fe297608-75e6-4b9b-8d6f-8d0be4835e58,Response,White supremacy ideas.,0,0,a78f8c2e-ef6e-4e6b-9ca9-1fa9a7a328d6

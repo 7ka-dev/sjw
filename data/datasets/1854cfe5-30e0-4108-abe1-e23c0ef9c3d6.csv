@@ -1,0 +1,654 @@
+uuid,name,description
+1854cfe5-30e0-4108-abe1-e23c0ef9c3d6,Cards Against Humanity- Family Edition,"Cards Against Humanity: Family Edition is a new party game that’s just like Cards Against Humanity, except it’s written for kids and adults to play together. Each round, one player asks a question from a black card, and everyone else answers with their funniest white card. We didn’t just take the adult stuff out of the original game: we wrote a whole new game from scratch and tested it with thousands of families. If you like to laugh at stuff like “filling my butt with spaghetti,” this is the game for you. If you don’t, go fill your butt with spaghetti!
+Release Date: April 2, 2020 (during COVID Stay at Home orders)"
+
+uuid,edition,version,description,author,releaseDate,column
+d260955c-0dd9-4cb7-a566-575d59b4edc6,,DRAFT,,,0,0
+1269072b-a2dd-4192-9cde-b0d24b25477d,,v1.0,,,0,1
+
+uuid,suite,text,draw,pick,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+946fb4c3-e620-4b12-ae2d-83fc08a6c533,Prompt,_______? No.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+cdb5ca9f-1c8e-47ac-81e1-8ed7d494c270,Prompt,"""One nation,
+under God,
+indivisible,
+with liberty and
+______
+for all.""",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+76b618f7-aa7c-407c-9cac-13cacd68da32,Prompt,All I want for Christmas is _______ .,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+93347b72-0ebd-4465-877f-2821be6738a1,Prompt,"Alright, which one of you little terds is responsible for ______?!",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+a5e3b928-17ee-4871-aaee-31c6f378bdcd,Prompt,"And in the blue corner, weighing in at 280 pounds, it's Tommy ""_______"" Takahashi!",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+05853158-4033-41a2-905f-b899199dc8f4,Prompt,"And over here is Picasso's famous painting, ""portrait of _______.""",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+d609270b-0408-4139-91f3-879ee675836c,Prompt,"At school, I'm just Mandy. But at summer camp, I'm ""______ Mandy.""",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+72f623b1-15a1-43d8-9d10-34d53e4fde72,Prompt,Attention students. This is Principal Butthead. Please remember that we do not allow ______ in the hallway. Thank you.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+f88538cb-adca-48f1-bf7c-03da12c3a633,Prompt,Beep beep! ______ coming through!,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+ef79668a-ab70-4e3e-9a02-14414fa9137c,Prompt,"Before I attend your sleepover, I must inform you: toys bore me, and I don't care for sweets. I prefer _______.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+70e8e7e3-41c4-4c62-99ce-0b2ae19d861d,Prompt,"Bow before me, for I am the Queen of ______!",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+18f201ee-924e-4379-8568-654643537a0a,Prompt,Boys? No. ______? Yes!,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+553c544c-3cc8-44c3-8b6b-836d8fed24d6,Prompt,Charmander has evolved into _______!,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+904980f1-a3f3-453d-b445-788808e8160d,Prompt,"CHUNGO ANGERY.
+CHUNGO
+DESTROY ______.",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+a344882f-4156-49ed-a42d-b058cd7229b0,Prompt,CHUNGO FEEL SICK. CHUNGO NO LIKE ______ ANYMORE.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+c8eb0656-32e4-4880-b9cf-aeae1a86942f,Prompt,"Class, pay close attention. I will now demonstrate the physics of ______.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+4e2f8fb5-0936-404f-ab57-7530ad0abbcf,Prompt,CNN breaking news! Over of Americans _______.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+39286645-22b2-4117-9a40-6839ffdb4b67,Prompt,"Come on, Danny. All the cool kids are doin' it. Wanna try _______?",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+edb11f10-8f46-4515-b6b4-9d4c82b0fa5b,Prompt,"Come with me, and I will show you a world of ______.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+3db74d6c-5002-482c-a139-475810510e37,Prompt,Coming soon! Batman vs. ______.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+1daf6315-34e0-4cc8-aed6-940d16f61926,Prompt,"Coming to theaters this holiday season, ""Star Wars: The Rise of ______.""",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+6ef71d89-e4a8-47c8-b57d-a309d82fea5e,Prompt,Did you know that Benjamin Franklin invented ______?,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+1821513d-fe06-4c45-b512-400a80bfb1f1,Prompt,"Disney Proudly presents ""_______ in Ice.""",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+1c7a528b-56df-43c1-a0c7-c50dbc224643,Prompt,ENOUGH! I will not let ______ tear this family apart!,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+a7bf1724-f5c1-4c65-8716-0e038628f264,Prompt,Ew. Grandpa smells like _______.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+c945dfee-20d7-477a-ae83-04a8d129043e,Prompt,Foolish child! Did you think you could escape from ______?,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+820bfd7e-b2b0-415e-8947-9c4ccf03e924,Prompt,Girls just wanna have ______.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+2cedd288-b26a-428d-9e63-58ec69060f22,Prompt,"Guys, stop it! There's nothing funny about ______.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+f8751578-864c-43b4-b1d4-aa2a14dc4361,Prompt,Hey guys. I just want to tell all my followers who are struggling with ______: it DOES get better.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+c0367ef9-e14e-4b4d-88d0-7cf4440b7aa4,Prompt,"Hey Riley, I'll give you five bucks if you try _______.",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+70e6e8c4-c463-42a7-ac99-589576e1afcd,Prompt,"Hey, check out my band! We're called ""Rage Against ______.""",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+48adcfaf-e84b-4947-8da2-b68a958179a7,Prompt,"Hey, kids. I'm Sensei Todd. Today, I'm gonna teach you how to defend yourself against ______.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+9fd34db4-d920-4431-ac3e-8f46b83b6222,Prompt,"Huddle up, Wildcats! They may be bigger. They may be faster. But we've got a secret weapon: ______.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+12e7858c-5980-47e1-9ec5-822274134d78,Prompt,"I do not fight for wealth.
+I do not fight for glory.
+I fight for _______!",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+cb7a5580-7176-482b-be3b-388c56616e13,Prompt,"I don't really know what my mom's job is, but I think it has something to do with ______.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+7cb0a77c-8deb-4fa6-b4e4-240a00903bab,Prompt,"I have invented a new sport. I call it ""______ ball.""",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+26205334-04cd-466c-ac9c-9b0722785f78,Prompt,I lost my arm in a ______ accident.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+d741a233-27a1-4d72-afcf-51e5c2c9abdd,Prompt,"I'm not like other children. toys bore mr , and I don't care for sweets. I prefer ______.",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+e8d3a902-b010-4e98-869d-946e9413f840,Prompt,"I'm sorry, Jorden but that's not an acceptable Science Fair project. That's just _______.",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+3f83c03d-89b0-4933-9f5d-b846986a8610,Prompt,"I'm sorry, Mrs Sanchez, but I couldn't finish my homework because of ______.",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+c489267a-49d3-4a20-aa53-393d94315cef,Prompt,"Isn't this great, honey? Just you, me, the kids, and _______.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+7994ea83-3ba6-49b9-9b8d-13a5c3feab80,Prompt,"It's BIG.
+It's SCARY.
+It's _______!",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+f2df2734-95c0-4f18-ba88-faa09baf5ad0,Prompt,"James Bond will return in ""No Time for _______.""",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+03bab8f4-dd1f-4ae8-bee9-c9a1b313ef8a,Prompt,"Joey, look out behind you! It's ______!",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+49c5d6ac-26cc-4758-aa6e-d3daeb77fda4,Prompt,"Kids, Dad is trying something new this week. It's called ""______"".",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+5aff1d01-919d-4584-9700-597d899ce627,Prompt,"Ladies and gentlemen, I have discovered something amazing. I have discovered ______.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+e4bec5f6-3802-44fc-af59-4efd915f76f9,Prompt,Little Miss Muffet Sat on a tuffet Eating her curds and ______.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+5c8e183c-42c9-4ea2-a9d5-296f49797255,Prompt,"Madam President, we've run out of time. The only option is ________.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+459439e7-3930-40ab-a78a-bc4611f849e3,Prompt,Me and my friends don't play with dolls anymore. We're into ______ now.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+2ef6a6d1-de48-4630-89dc-1e2b4b04fa7c,Prompt,ME HUNGRY. ME WANT _______.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+75a3e8fa-0bb9-46b2-bdb4-b81fb7eae27e,Prompt,Mom? You have to come pick me up! There's ______ at this party.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+61617dbf-1b55-4ade-aeb3-d2ca7ffabe53,Prompt,Moms love ______.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+645ea481-1f5c-4ab3-9bb1-f525c711e48d,Prompt,My dad and I enjoy ______ together.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+73137c62-758e-4672-b9e4-2b90eb774f8e,Prompt,"My favorite book is ""The Amazing Adventures of ______.""",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+95da23f7-efcc-4beb-8c34-baa7b7c4d0d2,Prompt,"My favorite dinosaur is ""______asaurus.""",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+e2cdb7d7-1947-470a-b2b1-77995c791d6a,Prompt,MY NAME IS CHUNGO. CHUNGO LOVE ______.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+60ee6c54-ae79-4f09-a459-d5391521249d,Prompt,"My name is Peter Parker. I was bitten by a radioactive spider, and now I'm ______.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+7768d15c-a149-4763-ad3d-4379b3f2333b,Prompt,"Never fear, Captain ______ is here!",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+0c8283b2-bf1b-42cb-8eb1-e1fa01e76c53,Prompt,"New from Mattel! It's BUNGO: The Game of ______.""",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+b32219d0-e39a-4b5d-8870-a3c439086528,Prompt,Next from J.K. Rowling: Harry Potter and the Chamber of ______.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+67e3e48f-7135-4dd4-9374-3b8a8a1bf717,Prompt,"No fair! How come Chloe gets her own phone, and allI get is ______?",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+b86ee116-0e68-4817-a0a1-9bef297c0c53,Prompt,Now in bookstores: Nancy Drew and the Mystery of ______.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+91a6fbaf-3eab-43d3-bfb7-9c47118a5ee8,Prompt,"Oh Dark Lord, we show our devotion with a humble offering of ______!",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+8ac5d2c4-58d4-410e-a1eb-f160d4f3852c,Prompt,"Oh, no thank you, Mrs. Lee. I've had plenty of ______ for now.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+cd6f3761-4bd0-4ec6-b797-e6b8d8312223,Prompt,"Oh, that's friend Carl. he comes over and helps her with _______.",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+e9da3ba3-d211-4909-a0ea-9bf73c57938e,Prompt,"On the next episode of Dora the Explorers, Dora explorers _______.",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+206cb5c1-1f74-48bd-a3fb-c4dc1d0a72fc,Prompt,Our day at the water park was totally ruined by _______.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+71ac18ba-790c-4888-9110-94f628c2f040,Prompt,Outback Steakhouse: No rules. Just ______.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+920f14bf-7a45-4f0a-b2e4-a6a02128b37a,Prompt,"Papa, game quickly! There, in the garden! Do you see ______? Tell me you see it, Papa!",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+f49a6fe5-ef36-4407-8566-9edea8e17b3e,Prompt,Police! Arrest this man! He's ______!,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+1631bd12-d509-49be-b092-916b2fe8b3c1,Prompt,"Princess Marigold, the kingdom is in danger! you must stop ______.",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+3d5ccf69-99f3-4558-8873-034b311293f8,Prompt,"Put on your helmet, strap on your goggles, and get ready for ______!",0,0,,
+92c03263-2b2c-42b2-8512-1c35c55032ba,Prompt,"Rub a dub dub, _______ in a tub!",0,0,,
+269b37c4-1266-4aaa-a7ef-ea37e4ef2a2c,Prompt,"Run, run, as fast as you can. You can't catch me, I'm ______!",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+4fbcc283-0703-4fea-816d-e61f619bdcf3,Prompt,"Shut up, Becky! At least I'm not ______.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+32a60114-1c1d-437c-96ad-876963b23815,Prompt,"Thanks for watching! IF you want to see more vids of ______, smash that subscribe.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+39919bd1-3599-4a50-8ca3-48de01cf8187,Prompt,The aliens are here. They want _______ .,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+4bf0637a-0eb5-4fa9-a7f8-a4dc7f4e9a83,Prompt,The easiest way to tell me and my twin apart is that I have a freckle on my cheek and she's _______.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+00c693b0-075e-4c06-912c-8387d26b2525,Prompt,"The warm August air was filled with change. Things were different, for Emily was now _______.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+d730b01d-4bb7-40fd-97a5-9d3ffada034d,Prompt,"The warm August air was filled with change. Things were different, for Kayla was now _______.",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+9053554e-02af-439a-8580-8696b48bb384,Prompt,There's nothing better than a peanut butter and ______ sandwich.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+c7c0d91a-dc5b-481f-880d-9670740670a6,Prompt,"They call me ""Mr. ______.""",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+0eaef779-49e2-43a7-8261-6d97fa7c771e,Prompt,"This is gonna be the best sleepover ever. Once Mom and Dad go to bed, it's time for ______!",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+3436d4d8-107f-452d-bd15-d06396eb77c3,Prompt,"Time to put on my favorite t-shirt, the one that says ""I heart ______.""",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+03955e7c-0ebe-4424-9432-2ced38186b7f,Prompt,"Today we honor St. Mungo, the patron saint of ______.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+110d724f-b6bf-49ea-b16f-8c8f81acc4a1,Prompt,We're not supposed to go in the attic. My parents keep ______ in there.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+d900f8ec-e3e2-4a55-9dfd-88e682c37113,Prompt,"We're off to see the wizard, the wonderful wizard of ______!",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+5f623565-bb6b-43e6-92a4-02beda346e61,Prompt,"Welcome! We're glad you're here. Now sitback, relax, and enjoy ______.",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+2d0b2ad6-1b34-48c0-bda6-169eb53f0ae2,Prompt,"Well, look at what we have here! A big fancy man walkin' like he's ______.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+e743a3fb-cffe-4838-897b-f08d02f22e70,Prompt,What killed Old Jim?,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+752fb0f6-dfed-4bd1-a7f3-f68430474fd4,Prompt,What's about to take this school to the next level?,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+fa706cc1-3f69-4532-9d8b-996576a60807,Prompt,What's all fun and games until somebody gets hurts?,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+2f26e44f-f443-459e-8c88-9c152672b4a7,Prompt,What's keeping Dad so busy in the garage?,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+9a82f1e3-5c78-4277-adf2-4254b745d324,Prompt,"When I pooped, what came out of my butt?",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+be9a3bb9-c689-4b31-9d12-cdfba4fc09ba,Prompt,Where do babies come from?,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+b23db660-c3d9-45b8-8961-5acbe8d34e9b,Prompt,"Whoa there, partner! Looks like _______ spooked my horse.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+36503675-03ad-4ebd-af1c-e81fe5324fad,Prompt,"You don't love me, Sam. All you care about is ______.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+1b2d4d77-5c86-415d-9431-bc4d6320bb3e,Prompt,"Young lady, we do not allow ______ at the dinner table.",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+1ea85eda-e2b4-4509-b2ee-b59d324d000b,Response,"14 cheeseburgers, 6 large fries, and a medium Sprite.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+cce5a46f-4016-40a2-b467-e7e3c2d3a980,Response,A 40-piece Chicken McNuggets.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+5611e594-7e0a-45b3-8f19-75310373ba7e,Response,A baby boomer.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+4a5b1c6d-e50b-4428-acd8-156057b87f97,Response,A baby with a full mustache.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+488ff8da-2cfb-4915-8cae-43d64c3c73b6,Response,A balloon filled with chili.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+79d074fb-10f5-4c54-bec8-f1356c70ea8e,Response,A bear.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+e82c30b2-f124-4220-a7e6-c066c4c18a52,Response,A big rock.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+8a883a1e-e63b-41ad-becf-b495bf5e77a1,Response,A big sad dragon with no friends.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+befc117c-59f0-4ee7-833d-b2d6d341a9ca,Response,A big wet kiss from Great Aunt Sharon.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+ebcb95bd-0d4b-4de2-bf66-4c1b32bb0c01,Response,A big whiny cry-baby.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+7744738b-bebf-43d4-a0f4-3db4db292f0c,Response,"A big, and I mean BIG turtle.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+9c7306d6-9b68-424d-96f6-0acb4fd90a50,Response,A bird pooping on the president's head.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+5f67421c-2a54-4a85-9217-11896d795a9c,Response,A black hole.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+dce9fdf8-ad7e-4205-b359-ac997c1a74d8,Response,A bountiful harvest of squashes and corns.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+dd152d7e-8f97-4256-a1ad-9cb745f9aa02,Response,A bra.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+24db619e-fee3-4c17-8ffd-a09a114fe86a,Response,A bunch of dead squirrels on a trampoline.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+9ce86a81-26bb-4f65-b5b9-d4a80bd55604,Response,A burrito smoothie.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+0059b9e3-7635-4dc1-9ed3-fec69d2692f4,Response,A butt that eats underwear.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+3ac34c70-d3c4-45e9-8647-53d2c8cd5049,Response,A cloud that rains diarrhea.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+38398db5-b427-45c5-b8b4-6e50437551f2,Response,A corn dog.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+fde3994a-0a0d-489b-a7ca-39a753c76ab8,Response,A couch that eats children.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+d16eaa77-cf0d-4886-926e-a02cff05ab76,Response,A cow.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+d4698891-167c-4603-b6d0-c303dfb4d4ee,Response,"A cowboy who is half boy, half cow.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+fb4ec9b8-1e73-4c73-aae8-bd676bb2bd03,Response,A cursed llama with no eyes.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+eae163e1-1003-46b6-8569-88dee3dfe56c,Response,A dead body.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+6e5d364d-c602-4230-90c5-02bcca300b7d,Response,A dead whale.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+c457590b-8897-4727-804c-fe490cc7b115,Response,A Democrat.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+3a8fe130-30a7-4cef-bda9-fb2aa856a07b,Response,A doll that pees real pee!,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+8628ff82-eb90-40f9-bfdb-057961182f97,Response,A fake kid made out of wood.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+5e8ed926-258b-4dff-bc28-c6ae86641c3e,Response,A flamethrower.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+00db5841-7864-468c-8540-5295daaa24ee,Response,"A gerbil named ""Gerbil.""",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+0917f583-1a7d-4948-9d7a-27241ff8e32c,Response,A glorious beard.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+a1da4539-b79e-4840-950f-05755efa2648,Response,A horse with bo legs.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+82ca59d0-b00d-400b-9ae7-1d6d8b78380b,Response,A hot air balloon powered by fart gas.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+fdb8fc72-c599-4fe9-86da-5e67b6b4137d,Response,A hug.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+2ecb66c7-4586-483d-b77c-878c34d412cd,Response,A hundred screaming monkeys.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+249d66c2-c074-4832-985c-2bf462c59f2d,Response,A killer clown.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+b3835526-7998-42ed-95ac-6446c954eefe,Response,"A long, hot pee.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+73647d4c-4d82-48e0-a011-bb4fceae70dc,Response,"A long, long snake.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+579e06c7-4356-4f17-bb4e-cb0347c306a6,Response,A naked lady in a painting.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+34e8c8f9-bdc0-444b-b342-47a5396666c7,Response,"A nice, warm glass of pee.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+f9ce686b-1dbc-4dbd-b578-6bd4552262c3,Response,"A pirate with two peg arms, two peg legs, and a peg head.",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+e58a3b66-d301-4a82-b9c7-9958327e0415,Response,"A plant-devouring space-worm named ""Rachel.""",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+5a875e2c-8d41-4011-b498-c71d0cf191af,Response,"A Pokémon Named ""Jim.""",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+5955eb4c-6f53-45aa-9c4a-784dc0b0a278,Response,A poop as big as mom.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+bc73613a-07ce-4515-a2d9-d1ced0a5d019,Response,A pregnant person.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+1226c76d-4293-4389-b86a-b7b959a7e539,Response,A Pringle.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+5c0023b1-e664-481b-bc21-382b81208fc4,Response,A Republican.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+c97bd286-a712-457e-9901-5d3ebf54123c,Response,A scoop of tuna.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+4c9de686-5382-41bf-b8b6-eba3ee65dcea,Response,A screaming soccer dad.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+bb5ec77b-3739-4e5d-9e21-2fe64332a027,Response,A statue of a naked guy.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+c8025c3c-3c39-4b17-8391-34feeab1c559,Response,A super angry cat I found outside.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+7bb86179-aff3-4ecb-bdf3-709c5a0dd31a,Response,A tiny detective who solves tiny crimes.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+cc41e5a0-b5d4-4201-abee-dea089b9db5c,Response,A truck.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+3609fe4e-b0d0-4bad-8d53-4b98c06a7044,Response,A turd that just won't flush.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+a24d6797-0fe3-4276-b713-4b3dbfdae5d9,Response,A whole thing of cottage cheese.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+e6ff61d0-0db4-411b-a00b-e60662ec9003,Response,"A wise, old woman with no teeth and cloudy eyes.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+856167dc-3322-4517-9cb2-0659f72b12b7,Response,Abraham Lincoln.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+178e4b3a-c3cf-447f-bc16-c5c511684089,Response,Aliens.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+bf214239-9f5b-4eae-a47f-c764389c51c6,Response,All of my teeth falling out.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+c506685b-b0ee-4277-bc11-dd9ea9f50518,Response,"An invisible giant who takes giant, visible poops.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+7244a2f9-6362-4d72-af54-0455c4f33cb8,Response,"An old, dirty cat with bad breath.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+04034689-904b-4f05-914c-249e26d0fc76,Response,An order of mozzarella sticks.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+c68f0378-97bd-4354-8537-8545f1e40b3c,Response,An owl that hates you.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+e58760a2-dd74-43ab-bbf1-a35a91754aca,Response,Anime.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+6595d1a2-c4d2-428b-a28a-878d9256f3f5,Response,Ariana Grande.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+dc14136c-acf7-4ee1-925f-fc9dd59c6adf,Response,"Athena, Goddess of Wisdom.",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+8ed92278-70ac-4c1c-986a-c54e11539224,Response,Aunt Linda.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+f84609b1-a351-4b75-b3aa-382913bfa717,Response,Baby boomers.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+2419d701-35a1-4f00-b341-9fde9a1d82dc,Response,Baby Yoda.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+18587129-0bcf-4ca9-a7e0-9dd98230d064,Response,Bad parenting.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+5f637cd4-1f03-4b82-a1bf-2627f08961cb,Response,Balls.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+f45bad3d-d0ad-4b62-b826-951e44ca8c49,Response,Barf.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+c94a2f63-7586-4ff4-8686-3985b76b5edb,Response,Barfing into a popcorn bucket.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+8b467cae-479a-4afe-bbde-0abf20402332,Response,Batman.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+38d143fd-4fd2-4dba-8fe9-c4f92d06252b,Response,Beautiful grandma.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+218c9958-74d2-40cc-99a8-8cec4fc9d8be,Response,Becoming taller and stronger than Father.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+c67dd13d-40e9-4b4d-b1bc-db80f2d03942,Response,Becoming the president.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+600ece15-ccf9-4ba2-b2cb-3b27666ff886,Response,Beer.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+4521c7b9-08c0-4321-8ae5-9cdd1c02339a,Response,Being a dinosaur.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+d19ca424-32b7-48da-977a-a58a5cef1ba4,Response,Being adopted.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+6dccbe9a-10b7-4fb5-b64c-713a7b5e48a7,Response,Being dead.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+aca8db47-dd43-4f8c-9cd6-6326026b1340,Response,Being fake.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+4adb1851-1c97-4542-8918-5d9436f6cd6e,Response,Being famous on YouTube.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+eb97fce1-dd0f-4535-adfa-d6a630fa9fb4,Response,"Being French, hoh-hoh-hoh!",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+258cc0ee-4d02-4c98-992d-4e21ce709df4,Response,Being super serious right now.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+f689f300-bbde-4037-99e0-a9eff1b4a9e6,Response,Bench pressing a horse.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+0d7d22b7-e9c6-418f-aa01-996c33288753,Response,Beyoncé.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+3e8da3b9-fe24-4a47-9217-b76f5a5cc199,Response,Big butt cheeks filled with poop.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+392f9078-e8ab-4b35-998e-8a845d1628ba,Response,Big Mississippi boys.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+b1b6a619-db52-42fe-8ee8-9dcd79f21f89,Response,Big Randy.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+5d11a691-382b-434c-81cd-1dfc29835c23,Response,"Big, juicy pimples.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+5951d43c-bd0f-435f-ac0e-2d535bd930ba,Response,"Big, slappy hands.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+4217f3ef-2d2e-4237-a6fa-95f73dae60e7,Response,Billie Eilish.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+19b1738d-e02c-4afe-bb6f-4b954de02cd7,Response,Biting a rich person.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+ede8a598-e5a8-4ab0-a1dc-fa87a2f20d55,Response,Blasting farts in the powder room.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+004eebae-3c1e-4b8f-8f87-58ffe4da3409,Response,Blasting my math teacher into the sun.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+b85e7555-ef7b-484c-9eea-93015e1dc9a5,Response,Bleeding.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+257264e6-dbb7-4418-a35c-a842b82280fb,Response,Blossoming into a beautiful young man.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+f8f3354a-0d73-425b-89a1-81e68a7ed79e,Response,Blowing up the Moon.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+5216c349-d375-4609-a719-738ac116e823,Response,Boobies.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+0e2d6cd4-2eb9-41d1-ac56-1e105007f064,Response,Boogers.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+39f285e0-3e51-44f5-807c-c59b01e00e5d,Response,Boys.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+24554520-61fe-4a2c-bfe6-0b6c37466f13,Response,Braiding my armpit hair.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+1f632ede-7fda-4793-a17d-fd94ac2c6689,Response,Building a ladder of hot dogs to the moon.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+bd0c9770-2b7f-4fe0-b1c8-05890c70964d,Response,BULBASAUR.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+d7d90314-1efc-4a44-b446-ab164a9bf6b0,Response,Burning books.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+e9a74327-9cbc-4513-a088-186c821cdfb7,Response,Bursting into flames.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+10061c74-0696-409d-94b2-d46d8eaed04b,Response,Butt hair.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+73da9d0d-9467-46ff-a177-4ce406ee66a8,Response,Butt surgery.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+c7526119-d6df-4b5e-9656-df6986bc310a,Response,Butthole.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+ec6d1553-4ad9-495a-8cb1-7480ca438875,Response,Butts of all shapes and sizes.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+d756ef15-82b0-4e18-bfae-09a446744957,Response,Calling 9-1-1.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+03ef1a7e-4dc8-4416-b85c-4b45001327ab,Response,Cat pee.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+4389977e-b1f5-4a47-9e6e-20adf979721e,Response,Cavities.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+5d929f57-9d62-4d1a-9c72-fdf2733f8b7b,Response,Cheeto fingers.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+5d66bdad-65a4-4ff0-a9fe-d3352c4f91a2,Response,Chest hair.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+d9506e6d-3e64-4d9c-a04c-ca6d67eb787e,Response,China.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+5d5af4fd-a4a6-495b-911b-7c2792911f5c,Response,Chugging a gallon of milk and then vomiting a gallon of milk.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+62366778-11e7-44d2-8553-e098fc1a6ff2,Response,"Chungo, the talking gorilla.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+32fd6255-d46e-4cbd-9312-304f54be78d0,Response,Chunks.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+fc205332-c818-46c2-b440-d16abb8a7b78,Response,Cigarettes.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+1eb9f212-027d-4eef-95d7-604204807cd6,Response,Clams.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+60cc66c1-56af-4f91-bd63-3aa4e35eb48b,Response,Climate change.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+6f52f34d-ac7f-424e-b426-4ae0be06a635,Response,Climbing into a cow's butt.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+6b39154b-5312-4509-bd10-6e98c05ebf0c,Response,Cocktail weenies.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+97ff1067-a909-48ec-a107-f312508d9923,Response,Coffee.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+382e4af6-587a-4be2-b8f0-e89079eae121,Response,Coming back from the dead.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+bb302866-32a7-4798-b4a8-5b167e7d3f2a,Response,Complaining.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+0a985493-2d63-4860-88f3-d15863dd0c6c,Response,Cool sunglasses.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+6608c559-9615-4693-b49d-327ca5c95f29,Response,Covering myself with ketchup and mustard because I am a hot dog.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+08f95a5d-1ea6-4c42-ae61-63b78e8fe59f,Response,Crab-walking from the toilet to get more toilet paper.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+22357013-dda9-403b-b125-6565fe8b5be4,Response,Cream.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+e3c20808-7e12-40b8-86b6-b2cc7ac7765e,Response,Crossbows.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+108cfcd1-05a0-4d9a-801c-d12f570bd61f,Response,Crying in the bathroom.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+c99e05b9-c6a2-4af4-9a7c-aee6fab3f2fd,Response,Dad's famous poops.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+c82fd660-9a32-40ec-8394-00175ac2fa84,Response,Dad's meatloaf.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+a1c51d1e-7d36-4558-973b-b9cc48264735,Response,Dancing with my son.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+bf8ea76f-e4d6-4335-9ce4-68f2f193fdd2,Response,Death.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+90464254-ab44-4173-b66b-98b05ca0f607,Response,Defecating on the neighbor's lawn.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+d0160936-fd9d-47ba-a084-ff5f772a32a2,Response,Destroying the planet.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+99b124e8-61b6-4491-b65d-83036b94caa7,Response,Diaper beans.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+89df6c9c-851b-4f4e-9d49-410dc9f7a143,Response,Diarrhea.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+3c05a955-4a70-434e-ac8b-dd0514ad5a74,Response,Dinner.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+8fa57a29-6fe1-47a6-9766-2240645bb907,Response,Doing crimes and going to jail.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+45d97bbc-3cf7-4e54-bcbb-ef04e977a7a5,Response,Doing karate.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+5b0e7b63-5996-49c3-a264-ccf16d7d2aa9,Response,Dora the Explorer.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+f5c6f5c4-d346-4685-9e25-1ef7f54e43c2,Response,Drama!,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+b071f033-7106-45b8-bf5a-795ced1cc7ec,Response,Dreaming about boys.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+b9ed3862-c306-4340-8c62-d60b67219997,Response,Drinking a whole bottle of ranch.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+18b0ce00-3e79-4ac1-b93c-b476aef75b26,Response,Drinking gasoline to see what it tastes like.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+4ac3d77a-c55d-4cfa-853e-84c8e8f53517,Response,Drinking out of the toilet and eating garbage.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+e9d9623d-49d7-4792-aae8-15dc18e0f1d6,Response,Dump cake.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+51c76c7f-7a09-401c-bab8-6e58b8b537a2,Response,"Dwayne ""The Rock"" Johnson.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+ae722fc6-ff32-4518-b0b6-e5315b5808a6,Response,Dying of old age.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+7286a928-f611-4ea4-8a74-d09e043bf588,Response,Ear wax.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+d7e85c6b-fed8-4548-ac18-f9f97673cfbc,Response,Eating a baby.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+b10c465c-2752-410a-94c6-f30985874ed3,Response,Eating a lightning bug to gain its lightning powers.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+eed6e665-aa40-446c-90cf-c69b0c1fac74,Response,Eating a whole roll of toilet paper.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+c9f7eaad-0111-4a88-9257-dddaf30c8a17,Response,Eating pasta out of my pants.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+aad7d28f-9d93-4ab7-bf3f-7d4ef6821917,Response,Eating people.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+30f7ff09-0e60-476d-8970-33d36b7e9510,Response,Eating toenail clippings.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+5b8540c9-a4b4-47bf-ac1c-108e2b5cf7a8,Response,Egg salad.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+0828b2c7-85e8-4e44-af00-8848c8c9e549,Response,Eight hours of video games.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+d2411dfd-6e73-4741-a2e0-e324ffac8d13,Response,Elegant party hats.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+28145c0a-76e0-4d9b-9dcc-b82d81089bc3,Response,Ellen,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+edea31c5-a059-40ff-81e4-9849ad06d23c,Response,Emotions.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+1378e901-8adf-47de-ae01-0e4fd0a7bbf9,Response,Evil.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+62191c12-891f-407c-8d07-29df85d1ee73,Response,Exploding.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+0c7ed3fb-7ef8-4c9d-b34d-2912f662bcb4,Response,Extra-warm Pepsi,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+9c973a08-6518-45ff-9d2b-f9ac157aea94,Response,Extremely tight underpants.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+b3a3abc7-ca87-4f92-9d5c-4ee778cf05de,Response,Failure.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+7d8eeea5-d8ad-4007-ba94-c47f22589fe0,Response,Fake news.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+a0ff1d5f-5b4c-4e33-a90d-208ce7338ee8,Response,Falling in love with a hot dog.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+ced5e03f-4750-4b55-98e7-1cd1f2fec293,Response,Falling in love.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+9d3e09b6-a40e-4c15-97f3-2bbb2001066b,Response,Falling off a mountain.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+8f0ee021-03f1-4aa5-bf53-136038b96ec2,Response,Famous peanut scientist George Washington Carver.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+284c80a8-815a-42cf-b01d-3d8d33c4b447,Response,Farting a lot today.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+eb4b8a7e-b60e-4036-ad7a-00af7fd82aeb,Response,Farting and walking away.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+0e84dcdd-e9a8-4b0c-a5a7-94afb3973336,Response,"Farting, barfing, and passing out.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+5f172753-3649-4ae4-bfa2-5932ffa3ddc2,Response,"Fartus Magnismus, God of beans.",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+5d261b2d-5f6b-4dda-9aba-80942d60d3f0,Response,Fat stacks of cash.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+7f038d9f-87ef-45af-a479-07f814c6dde4,Response,Fat stacks of cash.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+bc564d01-fc66-4508-8328-ef9cbefa26f8,Response,Father's forbidden chocolates.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+9d8d3cc0-45c9-4750-ba92-ad083f0fb5d6,Response,Feasting upon human flesh.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+35cb3f5f-9c24-4524-816f-d242cbee9372,Response,Feet.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+16ecbee9-4693-4824-9a8e-bd7e84e47d61,Response,Feminism.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+f56bc94f-deb3-4119-ac86-f89dab28a959,Response,Filling my butt with spaghetti.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+9ba1742e-6003-483f-8077-ab253fbf508d,Response,Finding Waldo.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+62b96ed4-eba1-4fc4-9a5f-e66818a178a9,Response,Finger teeth.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+76adfe0a-e7f7-4365-84c4-08778017d7b5,Response,Fire farts.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+2bb4816c-3773-4bdc-8716-3212a41919e0,Response,Flamin' Hot Cheetos.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+5311fad3-6a84-4a73-a800-b8f8c0fb6ba9,Response,Floating through the void of space and time.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+d4d44800-5767-4829-b49b-02156fbe271e,Response,Flushing myself down the toilet.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+dea5db70-83ff-468c-9978-52d9cb3f75a2,Response,FOOOOD FIIIIIIIIIIIIIIIIIIIGHT!!!,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+acabc501-1be7-499d-9c02-59e148aad8de,Response,Forgetting to put on underwear.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+b50eb60e-0516-4809-9d1c-dd1be3c8c9b6,Response,Fortnite.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+b328b389-b5cd-41bd-8d0d-e755ad80f1a1,Response,"Free ice cream, yo.",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+6b786b48-b79f-47c6-a050-a2d65ac760da,Response,Freeing a fart from its butt prison.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+f2fc9b1c-26c9-4d98-a6c9-5149f40e43a3,Response,Freeing all the animals.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+ba6ef8f1-b155-4944-b14b-9412cad0bc15,Response,Garbage.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+c7d2de52-1280-4659-ad58-e1c267f20fe1,Response,Germs.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+7b77b86f-447c-4d71-a88a-ae752e05a33b,Response,Getting a girlfriend.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+4c186ce1-e9de-4eed-8c1d-b30b3fd85604,Response,Getting a skull tattoo.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+6ecdb8f2-97cf-4eec-ae35-41a2e64c1685,Response,Getting crushed by a piano.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+8d454eec-51b5-46c5-93f8-860b4a6b9b4b,Response,Getting drunk.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+bb75727a-be1c-4c8c-824e-b1df0b8ad0dc,Response,Getting hit in the face with a soccer all.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+03573670-e044-421d-895f-7490517e7198,Response,Getting kicked in the nuts.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+79421564-4622-46ee-9fca-06ffe39d1b26,Response,Getting launched into space.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+0a8a9105-d690-468a-b132-bfcb910ff3c2,Response,Getting married.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+74272421-6946-43ad-96aa-eedae97036b4,Response,Getting my ponytail stuck in my butt.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+00b55099-7eb1-4be6-9491-0135fcaa5781,Response,Getting naked.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+2fa0ae17-4a31-4326-90d6-415e0c1831af,Response,Getting run over by a train.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+6b6fe712-60c2-44bd-ae0c-f6a3a906d378,Response,Getting scalded in the face with hot beans.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+de9ea7ec-09bc-4709-a3dd-2a076e70f458,Response,Getting shot out of a cannon.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+c1eb74cb-4aa9-40c4-8b6c-fe1bee595530,Response,Getting slapped with a fish.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+d1fdbb65-d294-448c-92fd-616070f19246,Response,Getting struck in the toilet.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+d3dc5e36-8047-4dc0-804e-cfad1ac8e1bb,Response,Getting sucked into a jet engine.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+02af4a2b-9891-48cd-b8cc-ddbef4321d88,Response,Getting trampled by horses.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+1a252178-b44b-4e99-9f3f-df7dc6adbf39,Response,Giggling and farting and slurping milkshakes.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+cd0fa9a7-9da5-4da3-89d8-630e28149ef2,Response,Girls.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+69d78c79-14e4-4750-b11d-7fc0bbf6a6e6,Response,Giving wedgies to my haters.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+1d9d7856-85a7-4b9f-bb41-7f08b8b1ba53,Response,Glen's fabulous body.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+ec3c0387-a262-46b8-9f81-e13788d3468b,Response,Gluing my butt cheeks together.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+03b33c08-0d84-4ec1-9d1a-747a0a4f33df,Response,Gluten.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+34cd9a0a-54ad-462f-8b22-a4c319f8c658,Response,Goblins.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+7df693f4-359f-4fc2-ba29-7586a7bfadcf,Response,Going around sniffing people's armpits.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+f286b393-cb77-4762-9f1a-3ac0c72ba292,Response,Going bald.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+3730d980-0624-41d8-aef5-8f4df75a853d,Response,Going beast mode.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+f007ebe6-a392-423a-8d30-80f3b79cc99c,Response,Going night-night.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+a9eccb5c-c52d-4a89-b7de-12154700a9b6,Response,Going to Hell.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+d8f0bedf-d2a1-42d9-b676-9bd46563789c,Response,Going to the emergency room.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+56371449-ae2a-437e-8e66-2dcef9596975,Response,GOOOAAALLL!!!!!,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+62261a66-eed1-401d-a909-ae6cf5549987,Response,Grandma panties.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+c6515348-e8b3-4071-847b-2c0acf0b5762,Response,Grandpa.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+1e2286e9-216b-483f-9efe-9349308d845f,Response,Greta Thunberg.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+94ba4a1b-d9d9-4e71-a2ec-85bcf31bc5f8,Response,Guacamole.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+766f200b-cff8-4a6c-a2bb-1580865b630d,Response,"Hades, God of the Underworld.",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+324585a3-00ad-40f0-b4cd-fc1a12317cbf,Response,Ham.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+dcf7abbc-eb53-4a3d-aec1-dd4bc1d7ddf3,Response,Hanging out with Zendaya.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+21c52220-efd2-44c4-af13-f64631a4b8f9,Response,Happiness.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+064cd72b-bb8a-4634-8b51-1d330b28bb32,Response,Happy daddies with happy sandals.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+eae3668c-c416-4e35-9cf8-3ec22192824c,Response,Harry Potter.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+e5fe560d-6d02-4bd9-a5eb-db20395fcd47,Response,Having a baby.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+49930343-8aef-47d1-912e-76e1e86f0e51,Response,Having a really big head.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+efe8b757-694a-4483-9e44-563cbaff10fb,Response,Having many husbands.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+e945d215-b643-483c-bbb9-adbf300285c4,Response,Having no bones.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+3f39e839-a8ea-4a7f-8650-e67cd200e12d,Response,Having no friends.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+d17f3b18-1ba0-4de4-91eb-ea5bfa316987,Response,Having no idea what's going on.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+9f5f01b6-202c-49fe-b787-54a708c11f84,Response,Having to pee so bad.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+c22e135f-6798-4a68-80c6-b26461cc49ca,Response,Hogs.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+a00f0474-af6c-4cf7-8a6f-b2dd1aa9c106,Response,Homework.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+dc4cee29-6aa0-4953-8b3c-f4a6d997f208,Response,Horrible allergies.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+e74399f6-9991-4432-8a28-9ab99a1fb8fb,Response,Horrible allergies.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+5ce4d67b-0c3a-459f-a036-a26fbdf6b5c8,Response,Hot gossip.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+46ef15c5-72ea-4494-8c36-f7c9adf12973,Response,Hot lava.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+051d3585-4b26-41ca-84cb-6247f3cbbb2f,Response,"Hot, fresh doodies.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+e24b97b8-977e-4ac5-9581-de4bbbeb1bcb,Response,How much wood a woodchuck would chuck if a woodchuck could chuck wood.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+bd729d95-68b1-41e2-9f8c-2a07a020ab1e,Response,How school slowly breaks your spirit and drains your will to live.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+12c9df3a-ed28-43ca-b093-5f5199e13878,Response,Huge pants.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+ad314367-57eb-4cbb-b7b9-c96d09f1362d,Response,"Huge, hairy men.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+b32c403a-c982-415c-87f9-669fa6195ce8,Response,Hurting people's feelings.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+e5ca7435-02f0-43c6-93f1-3dd5d5382a25,Response,Ice pee.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+2ae1b160-1396-4df7-a017-d974b8bf38cd,Response,Idiots.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+61b48706-bb85-4da2-8e2a-699677dc8c2f,Response,Illegal drugs.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+74695d6e-0838-49ae-a3b5-868e74d4a494,Response,Jesus.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+ff7698da-2ae7-4b43-b7d5-1c1492566385,Response,John Wilkes Booth.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+831d4bfb-c1aa-40ef-94ea-a4d33702f087,Response,Joining the army.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+f8ea3ef7-2675-4348-87cc-0fb60cd20e64,Response,JoJo Siwa.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+c2d1bab8-2d12-4424-9ce0-55888a02887b,Response,Josh.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+7d061b9a-7020-49b1-9436-0988f365e738,Response,Kevin's mom.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+5b0b0504-1f83-4a0f-9a22-ba08fc2a2180,Response,Kissing mom on the lips.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+b095e5b1-44d7-467a-a746-18dd9233f9b6,Response,Knives.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+9dc00924-dd38-4da5-8cf7-da6dfc17b126,Response,LeBron James,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+ee7000e8-a441-414c-83da-72648a3e8576,Response,Legs.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+2f700099-bf62-4b57-a0d1-2e069f84182c,Response,Lice.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+cb7c4020-a22c-4da9-9c29-cc8125e975d5,Response,Licking a goat.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+f04789c8-6d87-496b-88af-65ec490b9a56,Response,Licking a used bandaid.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+879f9a7b-1cf8-4deb-b306-5a49b1069459,Response,Lighting stuff on fire.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+a179d322-ee10-4d04-a5ec-50f5ac5fe6e6,Response,Like a million alligators.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+e63500e4-4342-4dc1-a7ab-df478b2df851,Response,Likes.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+4cbffa80-d273-4fd9-b388-0611b0f1b8b0,Response,Lil Nas X.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+29e1dd18-a7bc-42e1-b3d4-f2e32c7563ee,Response,Literally dying from the smell of a fart.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+bbd055fc-f0eb-444c-82c1-9271ceff0199,Response,Literally ruining my life.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+8a82ff35-3779-4cae-a527-05b8e79688a0,Response,Living in a pineapple under the sea.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+28d26998-00b0-42c0-bb84-e9e893072dbf,Response,Living in the dumpster.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+d26760f5-7347-4e4e-9da7-ef39e8d82128,Response,Locking Mother in the pantry.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+98fb40fe-310f-4610-a3bf-de54826b6f8a,Response,Looking into people's windows.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+4d226f86-3d62-4778-a315-3a57fce051a6,Response,Love.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+025b3fa5-692b-454d-83b6-15f54342457a,Response,"Magic:
+The Gathering.",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+6a559998-2b9f-4ec6-b2ab-6e30d37f5b59,Response,Making out in a closet.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+8c34bdae-165b-4025-afa4-78b7544bd1ef,Response,Making the bathroom smell.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+223d8bed-b2f7-4c20-8266-88ec1cc5d108,Response,Making the bees angry.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+7b308d96-357f-4004-a975-12a88aabc4db,Response,Many wolves.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+8340954a-5716-4ee2-b963-0304a6134201,Response,Martin Luther King Jr.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+d8df5a09-9b9d-4eba-8d9d-3d4a1d7026f1,Response,Mashing a banana into your belly button.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+e5d208cf-88d1-4481-8560-2f385445691b,Response,Math.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+8fafa353-cff7-4f38-a58b-6b4345b0f78d,Response,Mayonnaise.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+22a61c6f-61b5-4cc3-9bad-6d4cf5107ece,Response,"Me, your dad.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+3fb9a89b-95e3-4412-ac66-451f0b67c1ff,Response,Me.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+8ec80c3e-0bfb-4db3-876f-4878852b6c20,Response,"Meatballs,
+meatballs,
+meatballs!",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+c5a61a9d-1099-4f53-ab8c-1802780479ea,Response,Mom's butt.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+f38ce3a5-be26-4ea3-ac0d-530d1cd562c9,Response,"Mom's friend, Donna.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+c540ab9d-666e-4557-b462-6abc2d60af74,Response,Mom's new haircut.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+2cb00ec8-2511-4bb9-ba94-fcd5f27dd667,Response,Mom's spaghetti.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+ab038b0d-4e78-4bef-b9f0-85430a6ff3bb,Response,Money.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+c672d1ac-8394-4a17-9e2d-938309af6e47,Response,Mooing.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+706de877-3b93-4721-b7d6-93a3279c7faf,Response,Most of a horse.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+1e1ec917-e479-4644-9df9-b306f9e8b049,Response,Moving to Ohio.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+d619f7cd-2050-48cd-b599-74fad0fb90d6,Response,Mowing the stupid lawn.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+5d5786fb-7256-46fb-b40f-7b2ae3785370,Response,Murdering.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+51c3bf14-3126-467d-8215-d688d77c4a2b,Response,My annoying brother.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+26609466-dd73-4437-8629-29ba24311f28,Response,My annoying sister.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+d5938065-a3e1-41cb-9c8e-4170fa865f05,Response,My big donkey brother.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+c3464b0d-caa7-473e-955c-f6a66536870e,Response,My chainsaw.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+329171d5-b952-4e3d-baa8-3719105df1ff,Response,My dang kids.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+fa7eadb3-bc8d-49e6-a64d-e39de89a8e39,Response,"My father, who is a walrus.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+54972733-72fc-4599-898b-9ff6b8e6fe49,Response,My followers.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+3ba8614a-57b4-42cb-a0a0-97131d38b3b9,Response,My friend Steve.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+107fea93-daf0-4104-96c9-858d8f04ee1f,Response,My future husband.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+ea53f782-d2ee-4c65-b4dd-05634c819ece,Response,"My girlfriend, who goes to another school.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+36358d97-365c-4ee8-80ce-b0442e4e1cf1,Response,My parents.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+9aee3ee4-3ac7-4829-a596-0229141523c6,Response,My sister';s hair all over the place.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+70a2cabf-546d-4298-a073-0bdcb3d6b36c,Response,My sister's stupid boyfriend.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+305af9df-db8e-46e4-9e4a-3b52df3a80ae,Response,"My strong, terrifying daughter.",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+56b6e921-70fb-4ba1-bc06-071d3c33b910,Response,My whole body getting big and strong and beautiful.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+ad5bf082-2c4e-44f7-b50e-0b8e0e956bc4,Response,Naked people.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+4643ed78-a63f-479e-a4c3-b86d44a96bea,Response,Naptime.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+bbd91520-4870-4008-afa2-a92d480aef4a,Response,Nasty Cousin Amber.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+f1a25531-5983-44bb-b0b9-d099f1fe826d,Response,Never showering.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+e13b37df-0772-40e7-a656-b829cc4b0df1,Response,Ninjas.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+c5b29e9b-9618-4b8d-94ac-d6e7c4b5453a,Response,Nipples.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+43ef5727-1d02-48bb-bb73-a811b71a13e3,Response,Not breathing.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+b251f434-2cb5-4444-aa00-2d8f80a89d7e,Response,Not wearing pants.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+96f66654-2f8f-494a-829d-16680e7e1011,Response,Nothing.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+20e38f4c-a4b1-41bf-9798-647baf4fba9d,Response,Nuclear war.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+37c7ac8c-67b0-41bd-892d-5d0c96aa4744,Response,Nunchucks.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+9e999eb7-6908-496c-80a9-fc03cdb02474,Response,Obama.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+2e825958-05f8-43e5-af8c-291271223b1f,Response,Old Jim's Steamy Butt Sauce.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+b4a64226-3dd1-46c2-acee-09956a5517b4,Response,Old people.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+66ee841b-4d28-43e3-95d0-8fdbadab75d5,Response,One long hair growing out of a mole.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+55ec9f04-e35e-4d71-a557-cf340ac983e8,Response,One tough mama.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+a10cc073-2b05-4f24-9f0c-f17e4a2e67fb,Response,One weird lookin' toe.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+e6dad5f1-ed40-4ac4-8c83-9b5f7c7b3937,Response,Only beans.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+f625caef-ba9e-4830-ad86-918e6c3cb65c,Response,Outback Steakhouse.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+3fae6648-2d05-471a-984f-52fbce3fd99f,Response,Overthrowing the government.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+a723cd73-edbf-486d-b81b-8bcd5b025d1e,Response,Pee-pee.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+b13c8f0f-2403-4caf-8990-f7e600a97a0a,Response,Peeing in my backpack.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+4d183ee4-cd29-4ab6-9280-f335cf9760f5,Response,Peeing in the cat's litter box.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+be6f25e2-3c58-476e-9ef5-82aef1bfb271,Response,Peeing into everyone's mouth.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+fa798806-5df6-4c09-a62b-4d63d00254f5,Response,Peeing on my poopy.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+b40376e4-a58f-4302-a01b-fb6236d4ec8f,Response,Peeing sand.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+d5a254d8-a5ea-440e-93f2-3bedddc7bc3b,Response,Peer pressure.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+523816f3-1531-4a01-822b-f1a72fd1bac7,Response,Person milk.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+3218c9e4-39f4-416c-bc97-f0bf982b9a04,Response,Picking my nose and eating it.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+e7fc92d6-d22f-430c-94ec-91096faf7c39,Response,Pink eye.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+19b8c8f4-43c0-4125-a8e4-0516e4a9d52a,Response,Pirate music.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+680b00fa-6745-4686-92e8-37d2fc3bec9a,Response,Pizza.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+56505c5e-f7d5-4a88-a4d0-7b83f2b31178,Response,Playing trumpet for the mayor.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+1d7f76ba-4e2e-4608-ac2e-d005264f8010,Response,Poison.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+677de21a-a4dd-4b55-b3fe-9a3961794edf,Response,Politics.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+1fdbb70c-0aee-4117-8a4a-78732b7d4697,Response,Poo-poo.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+6a49dbd9-becf-4df1-8669-62d2ae5fc609,Response,Pooping barf forever.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+eb2e2d8b-9b7d-49a9-861c-1ec629eb3295,Response,Pooping in a bag and lighting it on fire.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+21aebe81-203b-4a71-b2f6-9a999b18ed95,Response,Pooping on the neighbor's lawn.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+d86da3c5-881f-41cc-bf70-e4c9ad696bcb,Response,Pork.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+2a4bc825-60dc-4698-9d39-1d5ddf3be0ea,Response,"Poseidon, Lord of the Sea.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+93eb1a03-aaa1-4aed-a5b1-5d2f51255137,Response,Practicing kissing.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+c6c5a067-a190-4ac6-8da3-c66aca296e26,Response,Principal Butthead.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+b9d997ea-d69f-48cf-8111-73e80e505831,Response,Puberty.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+e7504367-13fa-4a5f-a8e6-92601503081e,Response,Punching a guy through a wall.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+c2e75ae9-919c-4fc0-ac03-99071f082197,Response,Punching everyone.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+75b5a8c8-f275-4c7a-b360-b28801a05099,Response,Putting an apple in a little boy's mouth and roasting him for dinner.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+e128abf0-9804-4706-9ae6-9bbf788891ff,Response,Putting my brain into the body of a tiger.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+7255e80a-8605-424a-8a90-338b4006d42b,Response,Putting my butt on stuff.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+bce0c4f0-1873-4141-bb05-ed69e7e1b64e,Response,Questioning authority.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+85ed4854-5bc7-479c-8666-9fb5604a5dd3,Response,"Racism, sexism, and homophobia.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+b77ed5df-cb08-4d62-b9d0-9869bc0f622b,Response,Rated-R stuff.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+a66919a0-463a-4131-8c42-b8f28c3e921a,Response,Ratzilla.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+1c2c2a2f-bedd-4701-9068-da129105a710,Response,Reading my sister's diary.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+71bcfc5d-39e2-4339-8593-ec0ced5abac1,Response,Releasing the falcons!,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+3347ea2c-93e1-4b77-b75a-f5f9b959b679,Response,Respecting personal boundaries.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+f6828bb5-40d8-48a8-978d-936b25703c0d,Response,Rich people.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+55bb5433-86c2-4193-8194-3758bb03a966,Response,Robbing a bank.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+1e7b2a3d-2d17-4a3b-952b-2272495c8af4,Response,Rubbing lotion on a hairless cat.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+070afc65-dc2a-49f9-9b96-f1fbbe3cd3d9,Response,Running away from home.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+125dfe24-4d6e-4683-9385-b8dbbfb489e3,Response,Running full speed into a wall.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+f1b98fdd-f936-4dee-9f16-83ee201251bb,Response,Sacrificing Uncle Tim.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+06c408ee-b066-4dee-bacc-83ca400b3d2d,Response,Sadness.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+a9456937-3253-45cd-b528-8beb817a08ad,Response,Salmon.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+80ff7712-ffb2-401b-9f3b-2511183ab8d2,Response,Santa Claus.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+4ba43c7c-f46f-4273-96b4-6efe677465b8,Response,Satan.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+445e8e74-d7e9-4135-826c-1d65e82adfd0,Response,Saving up my boogers for ten years and then building the world's largest booger.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+eb99f6f9-0206-4879-90f5-a0d4a7f1978a,Response,Saying mean stuff and making people feel bad.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+26940708-a8c2-4dc4-86c4-bd6fc61d4e69,Response,School.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+89c3bbdb-3f34-491d-bfbb-93a1100010c1,Response,Science.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+7a15c390-680d-4ce3-99e7-5b7d4038f083,Response,Screaming and screaming and never waking up.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+899d2723-3d06-435e-a5fa-e1269f783fb4,Response,Screaming at birds,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+b87cc803-88fc-4216-98ac-d6c67e33e1de,Response,Screaming into a can of Pringles.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+fbc15688-a398-44cb-8713-6cfec37a8150,Response,Screaming the F-word.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+29d3e352-7dde-4ce8-bb12-d63ad7da1fb5,Response,Seymour Butts.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+cf7d7e72-164d-4328-9ef8-aa633105c9fb,Response,Sharks with legs.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+97489df1-7daf-433b-8e15-79eb12a44ac4,Response,Sharks.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+5e61a513-432e-4446-91d1-b003f4be6e09,Response,Shaving Dad's back.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+66115783-ab70-46df-8719-45d7d96a72b1,Response,Shoplifting.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+720bea21-db7d-47e9-99bb-b3de98b7610d,Response,Showing everyone my butt.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+af0d1f94-7070-47a7-9c56-bf240bc48b5d,Response,Shrek.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+e0257da9-aa15-469b-9193-e847d45a5454,Response,Shutting up.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+00e2538b-ef55-4f7b-a69b-e51d2892a1cb,Response,SILENCE!,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+cb32e22c-94d6-4162-9dba-4654177d5602,Response,Silence.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+1c808d35-bdba-4945-a1f8-63927efade32,Response,"Sitting atop a pile of tuna, like some kind of tuna queen.",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+13adac3c-ccbe-4c51-b0f1-15279be9ddc9,Response,Sitting on a cake.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+ac8e5881-6503-4180-a242-efd4653271ee,Response,Sitting on the toilet and going poop.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+a46a6fb1-2fa5-4430-9773-55304ee13341,Response,Slapping my huge belly.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+2873fd52-3615-44c8-ba05-2229378520fe,Response,Slapping that butt.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+f8b846e3-2094-41e4-9df0-8acef5d199d2,Response,"Slappy Spatchy, the game where you slap each other with spatulas.
+Learn more at www.SlappySpatchy.com.",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+a54a856c-1f50-4821-9581-3dfe761d9334,Response,Slowly turning into cheese.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+6e0b1161-8b57-41bb-9df4-2277e2d74dc4,Response,Smashing the patriarchy.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+be580511-c8fd-4920-a5d2-124235f18efa,Response,Smelling like onions.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+675d471a-5e82-4aa1-95ce-58233192dd5f,Response,Snakes.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+9d90e0c1-a743-4c34-aa5d-e92b2e51823e,Response,Sniffing a dog's butt.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+11db18c3-4491-41a8-8fe5-e1171c52d6c6,Response,Snot bubbles.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+c3dcd9d0-fe85-4deb-a4f7-3acb9196e562,Response,Social media.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+8ef99dbb-658d-4640-8bec-e85329640f47,Response,Some freakin' privacy.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+76a91f1f-d915-4693-b62d-3602fa24ad22,Response,Some weird guy.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+2173ef64-1972-4065-a04f-14c15c4b1938,Response,Soup.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+b51a5921-8d0a-429f-bb46-7856a8e76ed6,Response,Space lasers.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+695f44cb-5b2e-496f-8d09-2a0158b558e4,Response,Spawning sheep.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+ad441046-a3bd-4616-8f35-9ee6e42c903f,Response,Spending my parent's hard-earned money.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+5c9ca6c3-aa82-4562-8c43-d486c8d5fcd5,Response,Spider-Man.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+bfbdfffd-ad5d-4c3b-a66f-2c0261b81614,Response,Spiders.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+49021e1b-b5a0-4d07-9925-ae4391c38b81,Response,Spinning and barfing.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+a79ef3f5-dfac-4afb-b878-9767ecb136e5,Response,Spit.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+334e8c1d-f019-42f7-a267-925efb2147f0,Response,Squeezing a lemon into my eye.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+db498e6e-4158-4178-a5f8-8efddca85d93,Response,Squirty cheese.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+03dcfc76-c0a9-43c5-bc1c-6f2cacc52364,Response,Stank breath.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+4033273f-01a8-466b-ad7f-58dcbef8598a,Response,Stealing people's money and going to jail.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+5500108b-b09b-41be-8a5f-f8e78b44432b,Response,Steven Universe.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+411d6ff1-984b-4af9-8d4e-3119a160d8b9,Response,"Stinky Martha, the superhero that nobody likes.",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+cf9d9c4c-f184-47ca-9f20-51273e0f8fb6,Response,Stuff.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+4a3fa606-462c-4a49-8b87-5fe48c30d858,Response,Stuffing my underwear with pancakes.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+5497833e-e5f2-4386-a781-a9bffc170a36,Response,Sucking at life.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+a3db7028-13f9-4abb-a614-0a3360cdb684,Response,Supreme Court Justice Ruth Bader Ginsburg.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+b87fb613-d7fe-4bc2-bd22-d91a9aa120df,Response,Swords.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+8639dd2d-5eef-4c10-ba9e-ea74dcbbee56,Response,Taking a dump in the pool.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+5f68957c-181c-4013-ba74-da93199c3cad,Response,Taking a selfie.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+13363e35-8b35-4b7c-8d50-79d25a0e6952,Response,Taking out my eyeballs.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+5e593786-575f-493a-8edf-8353271627d3,Response,Teaching a chicken to kill.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+96503531-a7e0-447d-9fd6-2e9f08685278,Response,"Teeny, tiny turds.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+3235ba40-dcfe-446a-a172-e6b4102a0e21,Response,That there tarantula.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+fd5732cd-b09d-465a-852f-8b8555b486fc,Response,The baby.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+64a43ea1-cf7a-4df8-9e20-28f4862d56a2,Response,The babysitter.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+cc1dfc44-51f9-450a-be61-dc7c9bd03ad0,Response,The bacon.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+f9e7ff08-7c72-4d10-a187-ac92b961baab,Response,The beautiful potato.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+2df2b4df-87be-43ef-af82-e2165ecb074c,Response,The British.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+a47c908e-3208-46f9-a4a7-aa4eef6058e7,Response,The bus driver.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+a188d76a-ffe7-42d2-b77e-2218c4613ca8,Response,The country of Bolivia.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+4acdcefb-e434-4caa-84d3-c116955df3a4,Response,The Dark Lord.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+8c029c86-2761-4e40-847c-423208c228d6,Response,The dentist.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+a912624f-42a2-4340-b59c-12a5f1fcec8e,Response,The dishes.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+a79418db-cb26-487b-a36f-33b688727835,Response,The divorce.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+60e2dfcd-4cee-4bd7-9d09-066b41163b78,Response,The doll that watches me sleep.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+4fcf957f-5fb7-44a3-8dc0-6ccbc78473b2,Response,The entire state of Texas.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+813b0c5c-5179-4f59-9fdc-1171f1cc154f,Response,The fifth graders.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+46a834a6-906c-42c5-8c84-331f56ce0e5a,Response,The first female President of the United States of America.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+8f436468-6806-46d3-bb07-05ddb0122a13,Response,The floor.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+c738972e-4d8d-48f4-a8c4-d29b309aff49,Response,The freedom of speech.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+47d73cb1-8863-4316-a0a9-9c56ed31a909,Response,The garbage man.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+c70de902-b22b-4d72-8975-f3afc1c3e5ce,Response,The gluteus maximus.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+f27a8b69-1db9-481a-b2b2-a7bf3212516c,Response,The government.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+0a04d914-7b77-4130-a124-03bf060d1cd4,Response,The gym teacher.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+019ceab2-ed35-43a0-8b6f-6a49326b602d,Response,"The huge, stupid moon.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+48e7adc8-50a4-406e-b8f7-da58f9352ae3,Response,The humble earthworm.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+d9bbf0a5-9fbb-4f39-b752-d3731c68ae54,Response,The ice cream man.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+6244e563-b002-4e00-9b1c-00f181762fc7,Response,The longest tongue in the world.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+40283e6f-b08b-47cd-88f2-1b30d9e62f42,Response,"The loose skin at the joint of the elbow known as ""the weenus.""",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+6b4cfa7f-02db-4200-842f-2f1d500f765a,Response,The lunch lady.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+3009e722-96f7-4d11-b5d2-20757f4d49ec,Response,The middle finger.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+47b6f67b-8d1c-4fbb-8ee6-d6b797000067,Response,The octopus stuck to my face.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+bd269df3-4314-4475-a22e-4b17d485a690,Response,The old man with the rake who lives down the dark and winding road.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+6398ac9b-2e51-4371-b5a3-dbf56325190c,Response,The oppressive system of capitalism.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+d5cfc87f-3bee-467a-8999-277326cf0663,Response,The police.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+fcf52c6f-679b-4d94-9fef-9d21fcf1d223,Response,The power of the Dark Side.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+4aeadd53-2f4a-4e87-8d01-54112bb2a877,Response,The president.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+403978a3-0561-426d-9720-00c756b78cc5,Response,The Russians.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+ddd149f1-abff-4830-8a41-caa44e3b1941,Response,The sweet honking or Karen's bassoon.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+924e95dc-9767-4e37-b5c9-7fc210e47521,Response,The terrible winter of 1609.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+538ea8c3-1859-4066-9127-60ee75eb015b,Response,The Underground Railroad.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+6cdd4171-b676-4109-ba4c-a61432a7dc6e,Response,The way grandpa smells.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+c21ef80e-5fab-496b-837c-e1b73ef20176,Response,The way I feel when I see Kyle.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+05ea73dd-8d23-42a1-b8cd-ce41c3acdf98,Response,The wettest fart you ever heard.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+bd47677b-dd75-4165-b213-37521c794551,Response,The whole family.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+0974c25a-ed2e-47aa-a1de-b2d17cd10368,Response,The woman I'm going to marry one day.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+98f1b5bc-1e27-4a28-9f2b-353e61c0384b,Response,"Thick, nasty burps.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+e955536a-0d3b-467b-ab09-0a76552532a5,Response,"This goat, who is my friend.",0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+23d11a85-f48e-4754-9415-147bb382d4cb,Response,This pumpkin.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+3bd393be-899b-47fc-99a9-2c8e1a589db2,Response,This stupid game.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+e8542ba9-f082-45b5-a4c6-205117f9cc01,Response,Thousands of lasagna,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+053d06ec-5f3d-4f8c-a262-42e49e8194e2,Response,Three glasses of red wine.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+696a8932-b5b1-4284-8312-cefb87dd83a9,Response,Throwing stuff at other stuff.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+ffd05ffb-88f5-4692-8c78-b98a805b3ca1,Response,Throwing up double peace signs with my besties at Starbucks.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+6cbfbc18-3124-4e02-b4de-6d90d1ce23b0,Response,TikTok.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+00e69172-e9fb-4283-af89-cd08cf9967df,Response,Toe jam.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+73dee481-78c7-4651-8b75-95a3440c548a,Response,"Tombus, the Talking rhombus.",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+e6eef56d-15ec-48ef-933f-5bd12ac5e976,Response,Tongue kissing.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+4f1dec9f-1560-4d9b-badb-e024469232a2,Response,Tossed salads and scrambled eggs.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+acc64ca2-3980-4c83-b173-a60c965fd280,Response,Total crap.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+79b588f7-66fc-4213-970f-badeef8f2f09,Response,Total world domination.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+17255287-6e42-452b-a180-8c5aeadf4907,Response,Trees.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+cc7ff705-484c-415d-a485-8b17583bf6c1,Response,Triangles.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+b0b46438-5492-4faa-bbb9-00fe74e164dd,Response,True love's kiss.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+33ba8efb-b950-489a-9df5-3e21ca9ef57c,Response,Trying to catch that dang raccoon.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+352c1dfa-14b9-4c77-bcc8-cee9a7e9c122,Response,Turning 40.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+a212dc21-aa29-41d0-a4db-63bb3262e1f2,Response,Twerking.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+65bfaadc-1171-4355-97a6-5e6fd898f94a,Response,Uncle Bob.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+a79850bd-7e91-4242-9856-f2741de0bfde,Response,Unleashing a hell demon that will destroy our world.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+76862e1f-bde2-4242-b870-d19f079879fd,Response,Uranus.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+3e3a1409-141c-411b-83fc-139f24754fc7,Response,Using my butt as a microwave.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+7f0955e8-b79f-451b-a7cf-9126eff19e6d,Response,Violence.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+a46fcbc6-0b67-446d-8b71-1ecc0448e67a,Response,Voldemort.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+b49cc96b-fe25-4720-908e-502b48e45a65,Response,Wakanda.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+8305a7e3-a014-4eed-88a5-8f1c56af4c71,Response,Waking up inside of a spider web.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+9ac196d1-1702-417a-be4a-03dc2a1d32a1,Response,War with Canada.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+37b9e4ef-c8e1-4528-8cad-52919e166bed,Response,Water.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,
+232df13f-c1d1-4da7-96dd-182b5f43d67b,Response,Wearing high heels.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+ea55faef-3d8b-41fd-8fbc-3cccad0dab37,Response,Whatever dad does at work.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+10003b74-c75d-4573-a030-71d2e6ea46b8,Response,"Whispering secrets to my best friend, Turkey,",0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+dffb9c8b-dbb4-42a2-8db7-cc0bfcc754fc,Response,Wiping my butt.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+9171d77a-beff-4d88-a92e-b78d323e55c2,Response,Witchcraft.,0,0,,1269072b-a2dd-4192-9cde-b0d24b25477d
+4086cb93-af78-4409-ac00-2d479b213c76,Response,You.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+7278e668-94b9-4520-8de7-e7b72e572cc1,Response,Your face.,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d
+4a562e00-e396-4908-ac4b-a99c59eeb29d,Response,Your mom!,0,0,d260955c-0dd9-4cb7-a566-575d59b4edc6,1269072b-a2dd-4192-9cde-b0d24b25477d

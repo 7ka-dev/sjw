@@ -6,6 +6,7 @@ import {
   ParsingError,
   SetDataset,
   SetDetails,
+  SetMetadata,
 } from "../../types/types";
 export const SET_CARD_HEADERS = ["uuid", "suite", "text", "draw", "pick"];
 export const SET_EDITION_HEADERS = [
@@ -115,5 +116,13 @@ export const NewDataset = (
   },
   appendError(error: ParsingError) {
     this.errors.push(error);
+  },
+  get metadata(): SetMetadata {
+    return {
+      uuid: this.setDetails.uuid,
+      name: this.setDetails.name,
+      prompts: this.cards.filter((card) => card.type === "prompt").length,
+      responses: this.cards.filter((card) => card.type === "response").length,
+    };
   },
 });
