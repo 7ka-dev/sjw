@@ -3,10 +3,7 @@
   "compilerOptions": {
     "outDir": "dist",
     "noImplicitAny": false,
-    "baseUrl": ".",
-    "paths": {
-      "@sjw/*": ["./*"]
-    }
+    "baseUrl": "."
   },
   "include": [
     "utils/**/*.ts",
@@ -15,7 +12,9 @@
     "utils/fs/fs.ts",
     "docs/**/*.ts",
     "db/**/*.ts",
-    "./drizzle.config.ts"
+    "templates/**/*.ts",
+    "./drizzle.config.ts",
+    "templates/errors.ts"
   ],
   "exclude": ["node_modules", "dist"]
 }

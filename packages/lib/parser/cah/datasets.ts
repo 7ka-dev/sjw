@@ -3,25 +3,25 @@ import {
   EDITION_VERSION_REGEX,
   RESPONSE_PLACEHOLDER_REGEX,
 } from "../../types/regex";
-import { CardEditionMap, Edition, SetDataset } from "../../types/types";
-import { NewParsingError } from "./errors";
+import { Dataset } from "../../templates/cah/dataset";
+import { ParsingError } from "../../templates/errors";
 import {
-  SET_EDITION_HEADERS,
-  NewCard,
-  NewDataset,
-  NewEdition,
-  SET_DETAILS_HEADERS,
   SET_CARD_HEADERS,
-} from "./templates";
+  SET_DETAILS_HEADERS,
+  SET_EDITION_HEADERS,
+} from "../../templates/cah/headers";
+import { Edition } from "templates/cah/edition";
+import { CardEditionMap, SetDataset } from "types/types";
+import { Card } from "templates/cah/card";
 
 export const parseCahDataset = async (rows: any[]): Promise<SetDataset> => {
-  const dataset = NewDataset();
+  const dataset = new Dataset();
   rows = ParseSetDetails(rows, dataset);
   rows = ParseEditions(rows, dataset);
   rows = ParseCards(rows, dataset);
   if (rows.length > 0) {
     dataset.appendError(
-      NewParsingError("Unexpected row after cards", dataset.currentLine, 0)
+      new ParsingError("Unexpected row after cards", dataset.currentLine, 0)
     );
   }
   return dataset;
@@ -133,9 +133,9 @@ const isRowEmpty = (row: any[]) => {
 const ParseSetDetails = (rows: any[], dataset: SetDataset): any[] => {
   validateHeaders(SET_DETAILS_HEADERS, rows[0]);
   validateSetDetails(rows[1]);
-  dataset.setDetails.uuid = rows[1][0];
-  dataset.setDetails.name = rows[1][1];
-  dataset.setDetails.description = rows[1][2];
+  dataset.details.uuid = rows[1][0];
+  dataset.details.name = rows[1][1];
+  dataset.details.description = rows[1][2];
   return rows.slice(3);
 };
 
@@ -150,7 +150,7 @@ const ParseEditions = (rows: any[], dataset: SetDataset): any[] => {
   const editions: Edition[] = [];
   editionRows.forEach((row) => {
     validateEditionDetails(row);
-    const edition = NewEdition();
+    const edition = new Edition();
     edition.uuid = row[0];
     edition.edition = row[1];
     edition.version = row[2];
@@ -184,7 +184,7 @@ export const ParseCards = (rows: any[], dataset: SetDataset): any[] => {
 
   cardRows.forEach((row) => {
     validateCardDetails(row, editionsMap);
-    const card = NewCard(Object.keys(editionsMap));
+    const card = new Card(Object.keys(editionsMap));
     card.uuid = row[0];
     card.suite = row[1];
     card.text = row[2];

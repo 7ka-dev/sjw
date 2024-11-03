@@ -19,7 +19,7 @@ import { readCsvFile } from "../csv";
 export const getCandidatesList = async (): Promise<string[]> => {
   try {
     const candidates = await fs.readdir(CANDIDATE_STORAGE);
-    return candidates;
+    return candidates.filter(file => file.endsWith('.csv'));;
   } catch (error: any) {
     throw new Error(`Failed to read candidates list: ${error.message}`);
   }

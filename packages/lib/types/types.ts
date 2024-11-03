@@ -48,7 +48,7 @@ export type Card = CsvTemplate & {
 };
 
 export type SetDataset = CsvTemplate & {
-  setDetails: SetDetails;
+  details: SetDetails;
   editions: Edition[];
   cards: Card[];
   errors: ParsingError[];

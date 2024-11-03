@@ -17,7 +17,7 @@ import { readCsvFile } from "../csv";
  * @throws {Error} If writing to the file fails.
  */
 export const saveDataset = async (dataset: SetDataset): Promise<void> => {
-  const filePath = path.join(DATASET_STORAGE, `${dataset.setDetails.uuid}.csv`);
+  const filePath = path.join(DATASET_STORAGE, `${dataset.details.uuid}.csv`);
   await fs.writeFile(filePath, dataset.toCsv(), "utf8");
 };
 
