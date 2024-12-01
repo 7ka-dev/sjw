@@ -15,7 +15,7 @@ Whether you're a fan of dark humor, clever wordplay, or just enjoy a good laugh 
 
 ## How to Play
 
-1. **Access the Game**: Visit our <a href="https://sjw.7ka.dev" target="_blank" rel="noopener noreferrer">game website</a> to start playing **Sleepy Joe's Will** online.
+1. **Access the Game**: Visit our [game website](https://sjw.7ka.dev){:target="_blank"} to start playing **Sleepy Joe's Will** online.
 
 2. **Create or Join a Game Room**: You can either create a new game room or join an existing one. Follow the on-screen instructions to set up your game.
 
@@ -40,8 +40,8 @@ Our game includes a robust API for developers interested in extending or integra
 
 ## Links
 
-- **<a href="https://sjw.7ka.dev" target="_blank" rel="noopener noreferrer">Play game</a>**: Direct link to play **Sleepy Joe's Will** online.
-- **<a href="https://sjw.7ka.dev" target="_blank" rel="noopener noreferrer">Printable version (in development)</a>**: Download and print a physical version of **Sleepy Joe's Will** for offline play.
+- **[Play the Game](https://sjw.7ka.dev){:target="_blank"}**: Direct link to play **Sleepy Joe's Will** online.
+- **[Printable Version (in development)](https://sjw.7ka.dev){:target="_blank"}**: Download and print a physical version of **Sleepy Joe's Will** for offline play.
 - **[API Documentation](https://your-api-docs-link.com)**: Detailed API documentation for developers.
 - **[Project Repository](https://github.com/7ka-dev/sjw)**: Access the project's codebase and contribute to the development.
 

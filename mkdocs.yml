@@ -1,0 +1,8 @@
+site_name: Sleepy Joe's Will
+theme:
+  name: material
+nav:
+  - Home: README.MD
+  - Game Rules: RULES.MD
+markdown_extensions:
+  - attr_list
